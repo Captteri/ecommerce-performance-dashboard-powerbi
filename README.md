@@ -16,11 +16,11 @@ This project presents a multi-page Power BI dashboard built to analyze key perfo
 ## 📷 Screenshots
 | Executive Summary | Returns Analysis |
 |------------------|------------------|
-| ![overview](assets/overview.png") | ![returns](assets/returns.png) |
+| ![overview](overview.png") | ![returns](returns.png) |
 
 | Campaigns | Orders |
 |----------|--------|
-| ![campaigns](assets/campaigns.png) | ![orders](assets/orders.png) |
+| ![campaigns](campaigns.png) | ![orders](orders.png) |
 
 ## 📁 Dataset
 The sample dataset was artificially generated to mimic real-world e-commerce behavior across categories, customers, and campaigns.

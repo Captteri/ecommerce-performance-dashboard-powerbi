@@ -16,7 +16,7 @@ This project presents a multi-page Power BI dashboard built to analyze key perfo
 ## 📷 Screenshots
 | Executive Summary | Returns Analysis |
 |------------------|------------------|
-| ![overview](assets/overview.png) | ![returns](assets/returns.png) |
+| ![overview]("C:\Users\HP\OneDrive\Pictures\overview ss.png") | ![returns](assets/returns.png) |
 
 | Campaigns | Orders |
 |----------|--------|

@@ -1,0 +1,1001 @@
+CustomerName,Gender,Age,Country,Campaign,WebsiteVisits,Orders,CartAbandoned,ReturnStatus,ReturnReason,Category,PaymentMethod,UnitPrice,Quantity,TotalRevenue,Profit,OrderDate
+David Wheeler,Female,23,UK,Email,1,1,No,Not Returned,,books,Debit Card,46.98,2,93.96,16.28,2023-02-20
+Mario Ramirez,Male,54,USA,Facebook,4,1,No,Not Returned,,beauty,PayPal,405.29,1,405.29,96.71,2022-03-22
+David Wheeler,Male,25,Germany,Facebook,5,5,No,Not Returned,,fashion,Credit Card,113.31,2,226.62,33.76,2022-08-10
+Melanie Hudson,Female,35,India,Twitter,6,3,No,Returned,Item Not As Described,home,Cash on Delivery,272.83,5,1364.15,293.4,2022-02-28
+Mikayla Gonzalez,Female,64,Canada,Instagram,9,3,No,Returned,Wrong Size,toys,Cash on Delivery,160.71,4,642.84,97.54,2022-05-30
+Mikayla Gonzalez,Female,38,USA,Google,10,1,No,Returned,,electronics,Cash on Delivery,189.27,2,378.54,59.25,2023-01-05
+Mikayla Gonzalez,Male,64,UK,Email,4,1,No,Not Returned,,toys,Cash on Delivery,294.86,4,1179.44,306.6,2023-05-07
+Melanie Hudson,Female,34,USA,Instagram,9,1,No,Not Returned,,beauty,PayPal,187.77,5,938.85,190.3,2022-01-09
+Mikayla Gonzalez,Female,33,Canada,Google,5,4,Yes,Returned,Arrived Damaged,fashion,Cash on Delivery,219.39,3,658.17,123.93,2022-03-02
+Mario Ramirez,Female,21,Australia,Email,10,3,No,Returned,,toys,Credit Card,179.8,5,899.0,231.42,2023-09-08
+Mario Ramirez,Male,64,Germany,Google,6,0,No,Returned,Wrong Size,books,Cash on Delivery,200.88,0,0.0,0.0,2022-08-21
+Jason Flowers,Female,52,India,Facebook,4,1,No,Returned,Wrong Size,beauty,PayPal,167.26,5,836.3,138.56,2023-12-07
+Mario Ramirez,Female,56,Australia,Google,3,3,No,Returned,,books,Cash on Delivery,182.77,1,182.77,42.44,2022-08-03
+Melanie Hudson,Male,38,Canada,Instagram,3,3,No,Returned,Wrong Size,fashion,Cash on Delivery,224.96,5,1124.8,229.22,2023-09-10
+Mario Ramirez,Female,27,France,Google,6,3,No,Not Returned,,toys,PayPal,486.92,5,2434.6,691.38,2023-11-24
+David Wheeler,Male,62,Australia,Google,7,1,No,Returned,Wrong Size,fashion,Debit Card,169.13,1,169.13,49.89,2023-08-02
+David Wheeler,Male,21,UK,Google,1,0,No,Not Returned,,fashion,Debit Card,331.42,0,0.0,0.0,2023-10-03
+Mikayla Gonzalez,Male,52,USA,Google,10,8,No,Not Returned,,home,Debit Card,201.48,4,805.92,230.26,2023-09-28
+David Wheeler,Female,60,Australia,Instagram,3,1,No,Returned,Wrong Size,books,Cash on Delivery,263.59,5,1317.95,305.99,2022-09-06
+Jason Flowers,Male,37,France,Billboard,2,0,No,Not Returned,,fashion,Cash on Delivery,359.12,0,0.0,0.0,2023-12-01
+Melanie Hudson,Female,40,India,Google,3,3,No,Returned,Arrived Damaged,toys,Credit Card,82.3,2,164.6,47.23,2022-09-21
+Melanie Hudson,Female,43,Germany,Facebook,6,1,No,Returned,Changed Mind,fashion,Debit Card,329.85,5,1649.25,220.51,2022-05-14
+Mario Ramirez,Male,24,India,Billboard,2,2,No,Returned,Item Not As Described,books,Debit Card,125.58,4,502.32,116.79,2023-01-18
+Jason Flowers,Female,41,USA,Billboard,7,1,No,Returned,Wrong Size,toys,Debit Card,474.73,2,949.46,248.64,2023-11-25
+Jason Flowers,Female,28,India,Instagram,5,0,No,Returned,Wrong Size,toys,PayPal,314.86,0,0.0,0.0,2023-08-28
+Melanie Hudson,Female,44,France,Billboard,2,1,No,Returned,Arrived Damaged,books,Debit Card,222.7,3,668.1,138.83,2022-06-08
+Mario Ramirez,Female,57,Canada,Email,4,3,No,Not Returned,,fashion,Credit Card,362.83,3,1088.49,324.31,2022-09-10
+Jason Flowers,Male,38,Canada,Facebook,9,5,No,Returned,Arrived Damaged,beauty,Cash on Delivery,247.2,1,247.2,31.24,2023-01-19
+Melanie Hudson,Female,41,Canada,Billboard,3,0,No,Not Returned,,beauty,Cash on Delivery,219.91,0,0.0,0.0,2022-02-17
+Mikayla Gonzalez,Male,58,Canada,Twitter,2,1,No,Not Returned,,home,Cash on Delivery,394.26,3,1182.78,324.58,2023-12-06
+David Wheeler,Female,53,Australia,Google,3,2,No,Not Returned,,toys,PayPal,268.94,3,806.82,229.88,2023-02-24
+Mario Ramirez,Male,46,UK,Email,2,1,No,Not Returned,,electronics,PayPal,190.31,1,190.31,36.45,2023-03-17
+Melanie Hudson,Female,20,Canada,Email,6,2,No,Not Returned,,electronics,Debit Card,259.3,2,518.6,62.77,2022-06-26
+Melanie Hudson,Female,52,France,Instagram,1,0,No,Not Returned,,books,Debit Card,80.85,0,0.0,0.0,2022-07-15
+David Wheeler,Female,29,India,Google,9,4,Yes,Returned,Item Not As Described,electronics,Credit Card,199.63,1,199.63,38.01,2023-03-20
+David Wheeler,Male,19,Canada,Billboard,9,7,No,Not Returned,,books,Debit Card,107.71,4,430.84,106.01,2022-07-15
+Mario Ramirez,Female,27,Australia,Billboard,1,1,No,Not Returned,,beauty,PayPal,191.41,1,191.41,20.59,2022-04-06
+Jason Flowers,Female,50,UK,Google,8,0,Yes,Not Returned,,fashion,Cash on Delivery,97.33,0,0.0,0.0,2022-11-08
+Melanie Hudson,Female,26,Australia,Google,2,2,No,Not Returned,,electronics,Credit Card,274.59,3,823.77,106.02,2023-02-23
+David Wheeler,Male,61,USA,Facebook,3,1,No,Returned,Arrived Damaged,electronics,Cash on Delivery,279.37,3,838.11,113.6,2022-11-08
+Mikayla Gonzalez,Female,65,Australia,Google,5,0,No,Returned,Changed Mind,beauty,Credit Card,330.94,0,0.0,0.0,2023-12-21
+Jason Flowers,Female,22,Canada,Instagram,4,4,No,Returned,Item Not As Described,books,Credit Card,465.87,4,1863.48,407.15,2022-06-05
+Melanie Hudson,Female,28,France,Billboard,3,0,No,Returned,Item Not As Described,electronics,PayPal,297.31,0,0.0,0.0,2023-08-07
+Jason Flowers,Male,43,Canada,Billboard,1,1,No,Not Returned,,toys,Debit Card,99.36,3,298.08,78.69,2023-12-14
+Mikayla Gonzalez,Female,50,USA,Facebook,9,7,No,Returned,Wrong Size,home,Cash on Delivery,460.35,2,920.7,262.35,2023-01-23
+David Wheeler,Female,19,UK,Google,2,1,No,Returned,,home,Credit Card,476.53,1,476.53,121.78,2023-10-28
+Melanie Hudson,Female,20,Germany,Instagram,10,8,No,Not Returned,,toys,Debit Card,288.75,1,288.75,50.13,2022-02-18
+David Wheeler,Female,61,Canada,Twitter,6,2,No,Not Returned,,fashion,Credit Card,474.04,2,948.08,261.32,2022-04-30
+Mario Ramirez,Male,63,Canada,Billboard,1,0,No,Returned,,fashion,Credit Card,361.29,0,0.0,0.0,2023-12-12
+David Wheeler,Male,18,France,Email,9,9,No,Not Returned,,books,Cash on Delivery,231.14,4,924.56,218.58,2023-04-01
+Jason Flowers,Female,53,Canada,Facebook,9,1,No,Returned,,books,Cash on Delivery,85.92,1,85.92,22.37,2022-07-01
+Mikayla Gonzalez,Male,23,UK,Twitter,3,3,No,Returned,Item Not As Described,toys,Cash on Delivery,62.21,2,124.42,31.12,2022-09-04
+Mario Ramirez,Female,49,India,Email,3,0,Yes,Not Returned,,beauty,PayPal,91.32,0,0.0,0.0,2022-10-03
+David Wheeler,Female,26,France,Facebook,10,6,No,Not Returned,,fashion,PayPal,98.65,5,493.25,63.94,2023-03-09
+Mikayla Gonzalez,Male,47,India,Billboard,5,1,No,Not Returned,,electronics,Debit Card,429.61,1,429.61,91.39,2023-08-28
+Mikayla Gonzalez,Female,38,France,Email,10,5,No,Not Returned,,books,PayPal,390.18,2,780.36,157.68,2022-10-18
+Mario Ramirez,Male,58,Australia,Email,1,1,No,Returned,Wrong Size,beauty,Debit Card,252.4,2,504.8,72.07,2022-08-16
+Mario Ramirez,Female,48,Australia,Facebook,4,0,No,Returned,Wrong Size,electronics,Debit Card,133.05,0,0.0,0.0,2022-07-26
+Melanie Hudson,Female,36,USA,Billboard,5,2,No,Not Returned,,electronics,PayPal,367.14,5,1835.7,257.62,2022-05-24
+Melanie Hudson,Male,38,Australia,Twitter,5,4,No,Returned,,home,Cash on Delivery,415.34,1,415.34,108.3,2023-04-08
+David Wheeler,Male,64,USA,Instagram,7,3,No,Returned,Changed Mind,fashion,Debit Card,445.06,4,1780.24,499.1,2022-10-18
+Mikayla Gonzalez,Male,38,Canada,Google,1,1,No,Returned,,home,Cash on Delivery,98.32,5,491.6,51.21,2022-01-06
+Mikayla Gonzalez,Female,64,Canada,Google,6,5,No,Returned,,fashion,PayPal,335.06,2,670.12,75.01,2022-11-01
+Jason Flowers,Male,55,Australia,Instagram,7,6,No,Returned,Wrong Size,fashion,Credit Card,108.72,2,217.44,25.19,2023-06-03
+Mikayla Gonzalez,Male,60,Australia,Twitter,5,0,No,Not Returned,,beauty,Debit Card,117.42,0,0.0,0.0,2023-04-29
+Melanie Hudson,Male,22,Australia,Twitter,9,9,Yes,Not Returned,,toys,PayPal,371.19,5,1855.95,269.32,2023-05-12
+Mario Ramirez,Male,54,USA,Email,10,6,No,Returned,Arrived Damaged,home,Cash on Delivery,278.25,3,834.75,127.37,2023-02-07
+Mario Ramirez,Male,43,USA,Billboard,7,0,No,Not Returned,,toys,Cash on Delivery,247.24,0,0.0,0.0,2022-01-11
+Jason Flowers,Male,50,UK,Billboard,10,10,No,Not Returned,,books,Debit Card,367.66,1,367.66,88.9,2023-02-25
+Jason Flowers,Female,37,Australia,Billboard,3,0,No,Not Returned,,books,Debit Card,401.37,0,0.0,0.0,2022-07-19
+David Wheeler,Female,31,Australia,Email,10,10,No,Not Returned,,fashion,Cash on Delivery,71.53,4,286.12,35.87,2023-11-27
+Mario Ramirez,Female,24,USA,Email,2,0,No,Not Returned,,toys,Credit Card,233.57,0,0.0,0.0,2023-06-13
+Mikayla Gonzalez,Male,42,UK,Email,1,0,No,Returned,Arrived Damaged,electronics,Credit Card,51.32,0,0.0,0.0,2023-10-28
+Mikayla Gonzalez,Female,51,Australia,Billboard,6,2,No,Not Returned,,electronics,Credit Card,170.02,2,340.04,59.26,2022-09-19
+David Wheeler,Female,26,Australia,Instagram,6,6,No,Returned,Item Not As Described,toys,PayPal,241.58,1,241.58,48.79,2022-01-05
+Mikayla Gonzalez,Male,34,Australia,Instagram,10,4,No,Returned,Arrived Damaged,books,Debit Card,245.36,4,981.44,273.4,2023-07-22
+Mario Ramirez,Female,63,USA,Email,1,1,No,Returned,Arrived Damaged,home,Cash on Delivery,107.58,4,430.32,77.66,2022-10-02
+Melanie Hudson,Male,45,USA,Billboard,10,4,No,Not Returned,,home,PayPal,355.41,1,355.41,71.33,2022-03-07
+David Wheeler,Female,28,France,Email,9,0,No,Returned,Changed Mind,beauty,PayPal,397.35,0,0.0,0.0,2022-04-26
+Jason Flowers,Female,23,USA,Email,2,1,Yes,Not Returned,,books,Cash on Delivery,301.49,5,1507.45,218.41,2022-06-01
+David Wheeler,Male,46,Canada,Twitter,10,4,No,Returned,Arrived Damaged,beauty,Debit Card,99.76,5,498.8,73.37,2022-03-02
+Melanie Hudson,Male,31,India,Google,4,0,No,Returned,,books,Cash on Delivery,293.09,0,0.0,0.0,2023-06-18
+Jason Flowers,Male,61,Australia,Instagram,1,1,No,Returned,,home,Credit Card,21.29,4,85.16,19.44,2022-02-01
+Mario Ramirez,Male,29,USA,Twitter,7,2,No,Returned,,toys,PayPal,424.14,4,1696.56,248.91,2022-06-29
+Mario Ramirez,Male,37,Canada,Twitter,6,2,Yes,Not Returned,,fashion,Debit Card,366.35,5,1831.75,489.46,2022-01-26
+Melanie Hudson,Female,21,France,Twitter,2,1,No,Returned,Item Not As Described,toys,Credit Card,202.72,4,810.88,225.8,2022-06-28
+Mikayla Gonzalez,Female,65,Australia,Google,1,1,No,Returned,,fashion,PayPal,384.17,5,1920.85,343.48,2022-09-28
+Jason Flowers,Female,61,Australia,Instagram,10,1,No,Returned,Changed Mind,electronics,PayPal,446.76,5,2233.8,651.95,2023-09-27
+Jason Flowers,Female,63,USA,Google,6,5,No,Not Returned,,beauty,Debit Card,312.95,5,1564.75,280.73,2022-06-02
+Jason Flowers,Female,29,Canada,Instagram,4,3,No,Returned,Changed Mind,toys,Debit Card,466.15,4,1864.6,252.23,2023-06-11
+David Wheeler,Female,38,USA,Instagram,6,1,No,Returned,Item Not As Described,fashion,Cash on Delivery,163.91,2,327.82,35.42,2022-07-22
+David Wheeler,Female,30,France,Facebook,2,2,No,Returned,,electronics,PayPal,203.79,5,1018.95,266.06,2022-10-03
+Melanie Hudson,Female,34,Australia,Twitter,2,1,No,Returned,,toys,Debit Card,191.72,1,191.72,40.08,2022-06-02
+Mikayla Gonzalez,Male,44,USA,Billboard,7,3,No,Not Returned,,books,PayPal,431.61,4,1726.44,438.8,2023-04-18
+David Wheeler,Male,62,USA,Twitter,7,5,No,Returned,Arrived Damaged,toys,Cash on Delivery,294.6,1,294.6,63.53,2022-04-10
+Mikayla Gonzalez,Male,34,UK,Twitter,2,0,No,Returned,Changed Mind,fashion,PayPal,485.1,0,0.0,0.0,2023-09-28
+Mikayla Gonzalez,Female,53,India,Facebook,7,4,No,Not Returned,,beauty,Cash on Delivery,106.18,3,318.54,62.62,2023-04-01
+Mikayla Gonzalez,Female,61,India,Instagram,6,4,No,Not Returned,,electronics,Cash on Delivery,89.09,4,356.36,63.98,2022-10-06
+Mikayla Gonzalez,Male,23,Australia,Billboard,2,0,No,Returned,Changed Mind,books,PayPal,210.27,0,0.0,0.0,2022-08-02
+Mikayla Gonzalez,Female,45,Australia,Email,2,2,No,Returned,Wrong Size,books,Debit Card,175.16,4,700.64,98.45,2023-11-22
+David Wheeler,Male,35,France,Facebook,2,2,No,Returned,,home,Credit Card,245.53,1,245.53,63.35,2023-09-04
+Melanie Hudson,Male,64,Germany,Twitter,9,2,No,Not Returned,,books,Debit Card,382.25,1,382.25,97.82,2022-12-09
+Mario Ramirez,Male,31,USA,Twitter,10,7,No,Not Returned,,books,Credit Card,279.55,2,559.1,102.87,2022-08-20
+David Wheeler,Female,55,Canada,Billboard,6,3,No,Not Returned,,home,PayPal,147.41,5,737.05,153.13,2022-06-13
+Mikayla Gonzalez,Female,59,Australia,Billboard,8,6,No,Returned,Arrived Damaged,electronics,Credit Card,206.08,5,1030.4,172.96,2023-06-16
+Mario Ramirez,Female,53,UK,Google,2,1,No,Returned,Item Not As Described,home,Cash on Delivery,291.15,1,291.15,81.96,2022-06-25
+Jason Flowers,Male,24,India,Billboard,5,4,Yes,Returned,Arrived Damaged,beauty,Credit Card,464.07,2,928.14,245.23,2023-10-27
+Melanie Hudson,Female,40,USA,Facebook,9,3,No,Returned,Item Not As Described,beauty,Credit Card,470.25,2,940.5,185.78,2022-04-25
+Mikayla Gonzalez,Female,62,UK,Twitter,5,3,Yes,Returned,Arrived Damaged,home,Cash on Delivery,424.8,4,1699.2,326.62,2022-11-17
+Jason Flowers,Female,22,UK,Billboard,2,2,No,Not Returned,,toys,Debit Card,358.78,4,1435.12,397.39,2022-01-25
+Mario Ramirez,Male,39,France,Instagram,4,1,No,Returned,Arrived Damaged,electronics,PayPal,213.73,3,641.19,191.64,2022-12-05
+Jason Flowers,Female,52,UK,Twitter,10,8,No,Returned,Wrong Size,fashion,Debit Card,136.92,2,273.84,81.52,2022-06-16
+Jason Flowers,Male,34,UK,Instagram,10,3,Yes,Not Returned,,books,Credit Card,365.59,5,1827.95,460.89,2022-09-15
+Mario Ramirez,Female,23,UK,Facebook,2,2,No,Returned,Changed Mind,toys,Credit Card,246.88,1,246.88,28.37,2023-07-23
+Mario Ramirez,Female,61,Australia,Email,1,0,No,Not Returned,,home,PayPal,452.92,0,0.0,0.0,2022-09-27
+David Wheeler,Male,57,Canada,Billboard,2,1,No,Returned,Arrived Damaged,home,Debit Card,380.96,3,1142.88,192.76,2023-03-10
+Mikayla Gonzalez,Female,24,Canada,Google,6,5,No,Not Returned,,books,Cash on Delivery,376.52,4,1506.08,246.75,2023-10-31
+Mikayla Gonzalez,Female,22,UK,Google,10,8,No,Returned,Item Not As Described,fashion,Cash on Delivery,297.14,4,1188.56,194.15,2022-09-04
+Mikayla Gonzalez,Female,45,USA,Instagram,1,1,No,Returned,Changed Mind,beauty,PayPal,26.45,3,79.35,11.7,2022-06-11
+Mario Ramirez,Female,62,USA,Email,10,10,No,Not Returned,,fashion,Debit Card,435.51,3,1306.53,271.82,2023-04-08
+Mikayla Gonzalez,Male,18,France,Twitter,3,2,No,Not Returned,,beauty,Credit Card,441.88,2,883.76,233.45,2022-05-28
+Melanie Hudson,Male,35,Germany,Instagram,6,4,No,Returned,,books,PayPal,221.91,5,1109.55,116.15,2022-10-30
+David Wheeler,Female,33,UK,Billboard,7,3,No,Returned,Arrived Damaged,home,Cash on Delivery,196.84,3,590.52,129.43,2023-07-20
+Jason Flowers,Female,45,India,Billboard,2,2,Yes,Returned,Arrived Damaged,electronics,Credit Card,425.81,4,1703.24,506.39,2023-09-11
+David Wheeler,Male,45,UK,Facebook,4,1,No,Returned,Item Not As Described,fashion,Debit Card,489.96,4,1959.84,396.02,2023-12-17
+Jason Flowers,Female,38,France,Facebook,7,5,Yes,Returned,Item Not As Described,fashion,Debit Card,221.22,5,1106.1,158.1,2022-10-12
+David Wheeler,Female,24,Canada,Billboard,4,4,Yes,Not Returned,,fashion,Debit Card,459.59,5,2297.95,548.99,2022-02-04
+Jason Flowers,Male,64,Australia,Facebook,10,1,No,Not Returned,,electronics,Credit Card,248.23,4,992.92,146.59,2023-08-16
+Jason Flowers,Male,55,UK,Facebook,5,0,No,Not Returned,,electronics,Debit Card,321.33,0,0.0,0.0,2022-01-25
+Mikayla Gonzalez,Male,64,USA,Google,5,3,No,Returned,,books,Debit Card,459.22,1,459.22,102.57,2022-11-14
+David Wheeler,Male,20,UK,Email,7,1,No,Not Returned,,toys,Debit Card,411.45,2,822.9,189.87,2022-07-31
+Jason Flowers,Female,44,Canada,Billboard,7,1,No,Returned,Wrong Size,home,PayPal,314.93,5,1574.65,460.06,2023-09-12
+David Wheeler,Female,40,Germany,Google,7,1,No,Returned,,fashion,Credit Card,106.77,3,320.31,33.95,2023-05-06
+Jason Flowers,Male,45,Australia,Facebook,9,1,No,Returned,Arrived Damaged,toys,PayPal,488.15,4,1952.6,559.12,2022-05-05
+Mikayla Gonzalez,Male,22,India,Google,5,2,No,Not Returned,,electronics,Credit Card,443.11,2,886.22,217.93,2022-10-02
+Melanie Hudson,Female,23,USA,Email,10,10,No,Returned,Wrong Size,toys,Cash on Delivery,154.87,4,619.48,162.7,2022-08-30
+Mikayla Gonzalez,Male,27,Australia,Instagram,4,4,No,Not Returned,,home,Credit Card,88.31,3,264.93,45.08,2023-10-16
+Melanie Hudson,Male,48,France,Email,2,1,No,Returned,Changed Mind,home,PayPal,428.6,3,1285.8,338.93,2023-08-22
+Mikayla Gonzalez,Female,41,France,Email,1,0,No,Returned,Wrong Size,books,PayPal,300.44,0,0.0,0.0,2023-05-10
+Mario Ramirez,Male,26,UK,Email,1,1,Yes,Not Returned,,beauty,Cash on Delivery,217.19,3,651.57,94.34,2023-01-13
+Jason Flowers,Male,27,UK,Instagram,3,0,Yes,Returned,Wrong Size,electronics,Debit Card,226.09,0,0.0,0.0,2022-07-15
+Mikayla Gonzalez,Male,50,Canada,Google,7,1,No,Returned,Changed Mind,beauty,Debit Card,345.2,4,1380.8,236.88,2023-03-03
+Melanie Hudson,Male,52,UK,Facebook,10,9,Yes,Returned,,toys,Cash on Delivery,26.71,3,80.13,17.83,2022-10-25
+David Wheeler,Male,25,France,Email,2,1,Yes,Returned,Arrived Damaged,fashion,Credit Card,107.12,2,214.24,58.56,2023-04-18
+Melanie Hudson,Female,36,UK,Email,9,8,No,Not Returned,,fashion,Debit Card,312.44,4,1249.76,296.7,2023-12-10
+Jason Flowers,Female,34,Canada,Twitter,9,1,No,Not Returned,,home,Credit Card,200.62,4,802.48,85.56,2022-06-30
+Mario Ramirez,Male,33,Germany,Email,9,5,No,Not Returned,,beauty,Debit Card,62.01,4,248.04,52.81,2022-06-28
+Mario Ramirez,Male,28,Germany,Billboard,1,1,No,Returned,Wrong Size,electronics,Cash on Delivery,470.59,4,1882.36,335.99,2022-01-30
+Melanie Hudson,Female,53,Canada,Facebook,10,3,Yes,Returned,Changed Mind,toys,PayPal,231.28,5,1156.4,318.45,2023-01-25
+Mikayla Gonzalez,Male,18,UK,Twitter,3,0,No,Not Returned,,electronics,PayPal,419.77,0,0.0,0.0,2022-11-24
+David Wheeler,Female,37,Australia,Facebook,2,2,No,Not Returned,,books,Credit Card,485.9,4,1943.6,331.05,2022-12-26
+Melanie Hudson,Female,42,France,Billboard,10,7,No,Returned,Arrived Damaged,books,Debit Card,44.6,1,44.6,5.35,2023-09-10
+Mikayla Gonzalez,Female,29,Australia,Facebook,2,1,No,Not Returned,,toys,Credit Card,332.61,5,1663.05,254.78,2022-04-26
+Melanie Hudson,Male,57,India,Twitter,10,1,No,Not Returned,,books,PayPal,203.69,5,1018.45,127.52,2023-05-17
+Mikayla Gonzalez,Female,25,India,Billboard,7,5,No,Not Returned,,books,PayPal,186.78,1,186.78,43.99,2023-03-25
+Mario Ramirez,Female,43,France,Billboard,2,1,Yes,Not Returned,,toys,Cash on Delivery,52.95,1,52.95,12.81,2022-01-03
+Melanie Hudson,Female,65,France,Instagram,7,4,No,Returned,Arrived Damaged,books,Debit Card,287.83,3,863.49,133.88,2023-10-05
+Jason Flowers,Male,60,USA,Billboard,8,3,Yes,Returned,Item Not As Described,beauty,Debit Card,337.59,3,1012.77,218.64,2022-10-15
+Mikayla Gonzalez,Female,20,USA,Google,1,0,Yes,Returned,Item Not As Described,home,Credit Card,56.53,0,0.0,0.0,2023-06-07
+Mikayla Gonzalez,Male,47,Canada,Google,10,5,Yes,Returned,Wrong Size,beauty,PayPal,216.67,5,1083.35,201.94,2022-06-13
+Mario Ramirez,Male,37,Canada,Instagram,6,6,No,Returned,Changed Mind,books,PayPal,357.76,5,1788.8,191.24,2022-04-04
+David Wheeler,Male,30,India,Facebook,4,0,Yes,Returned,,toys,Debit Card,479.49,0,0.0,0.0,2023-09-08
+Jason Flowers,Male,35,Australia,Twitter,10,3,No,Returned,Changed Mind,home,PayPal,118.46,4,473.84,125.59,2023-03-06
+Mario Ramirez,Female,61,France,Instagram,9,4,No,Not Returned,,electronics,PayPal,464.22,3,1392.66,216.06,2022-10-12
+David Wheeler,Male,53,USA,Email,10,8,No,Not Returned,,books,Debit Card,476.16,3,1428.48,145.91,2023-11-27
+Melanie Hudson,Female,54,Germany,Facebook,2,0,No,Not Returned,,books,Cash on Delivery,54.39,0,0.0,0.0,2022-10-15
+Jason Flowers,Female,21,Canada,Twitter,7,2,No,Returned,Changed Mind,beauty,Credit Card,234.74,3,704.22,85.53,2022-06-20
+Melanie Hudson,Female,46,Australia,Facebook,7,3,No,Not Returned,,beauty,Debit Card,362.39,2,724.78,210.87,2023-01-29
+Mario Ramirez,Female,27,USA,Google,8,4,No,Returned,Arrived Damaged,books,Credit Card,269.31,3,807.93,114.8,2022-04-27
+David Wheeler,Male,40,India,Email,5,2,No,Not Returned,,fashion,Credit Card,181.29,5,906.45,150.8,2022-09-06
+Jason Flowers,Female,36,Germany,Billboard,5,3,No,Not Returned,,home,Debit Card,231.34,5,1156.7,278.44,2023-03-11
+David Wheeler,Female,40,Germany,Twitter,1,0,No,Not Returned,,toys,Credit Card,250.84,0,0.0,0.0,2022-07-21
+Mario Ramirez,Male,22,Australia,Google,4,2,No,Returned,Arrived Damaged,beauty,Credit Card,317.91,3,953.73,250.77,2022-08-16
+Mikayla Gonzalez,Male,65,France,Twitter,5,0,Yes,Returned,Changed Mind,toys,Debit Card,191.59,0,0.0,0.0,2022-08-06
+Mario Ramirez,Female,21,France,Facebook,4,4,No,Not Returned,,electronics,PayPal,174.47,4,697.88,195.49,2022-04-30
+Jason Flowers,Female,39,USA,Billboard,1,1,No,Returned,Arrived Damaged,beauty,Debit Card,321.66,5,1608.3,421.14,2023-05-19
+David Wheeler,Female,53,India,Facebook,3,0,No,Returned,Arrived Damaged,electronics,Debit Card,494.78,0,0.0,0.0,2022-09-28
+Melanie Hudson,Female,56,Germany,Billboard,4,1,No,Not Returned,,fashion,Cash on Delivery,284.16,2,568.32,139.12,2022-02-13
+Mario Ramirez,Male,55,USA,Google,9,6,No,Returned,Changed Mind,electronics,PayPal,204.53,4,818.12,229.84,2022-07-22
+Melanie Hudson,Male,41,USA,Billboard,4,3,No,Returned,Arrived Damaged,fashion,Credit Card,406.39,5,2031.95,529.98,2023-04-24
+Mikayla Gonzalez,Female,23,Canada,Google,8,7,No,Not Returned,,home,Debit Card,69.77,4,279.08,40.02,2022-08-27
+Melanie Hudson,Male,57,France,Twitter,8,2,Yes,Returned,Wrong Size,electronics,Debit Card,194.48,2,388.96,39.73,2023-04-11
+Mikayla Gonzalez,Male,46,USA,Instagram,6,3,No,Not Returned,,electronics,Cash on Delivery,303.41,2,606.82,167.38,2023-05-29
+Jason Flowers,Male,41,UK,Instagram,3,3,No,Not Returned,,books,Debit Card,221.61,5,1108.05,315.76,2023-11-20
+David Wheeler,Female,33,France,Instagram,5,2,No,Not Returned,,electronics,Cash on Delivery,193.55,5,967.75,120.27,2023-05-01
+Mikayla Gonzalez,Female,36,France,Billboard,6,0,Yes,Not Returned,,electronics,PayPal,55.39,0,0.0,0.0,2023-02-23
+Melanie Hudson,Male,26,Germany,Billboard,6,6,Yes,Returned,Wrong Size,fashion,Debit Card,282.33,4,1129.32,171.04,2023-10-23
+Melanie Hudson,Female,51,Germany,Twitter,4,1,No,Returned,,fashion,Credit Card,302.36,5,1511.8,353.59,2023-05-07
+Jason Flowers,Male,46,UK,Twitter,6,5,No,Not Returned,,fashion,Cash on Delivery,440.61,5,2203.05,574.28,2022-11-30
+David Wheeler,Male,43,UK,Twitter,9,3,No,Returned,Arrived Damaged,home,Debit Card,494.53,3,1483.59,419.85,2023-03-30
+Melanie Hudson,Female,28,Canada,Instagram,5,1,No,Not Returned,,books,Credit Card,314.61,5,1573.05,189.32,2023-05-20
+David Wheeler,Female,35,Australia,Instagram,4,1,No,Not Returned,,fashion,Cash on Delivery,217.25,2,434.5,79.58,2023-02-23
+Mario Ramirez,Female,27,Australia,Billboard,3,3,No,Not Returned,,fashion,Debit Card,145.71,5,728.55,177.93,2023-02-18
+Mikayla Gonzalez,Female,31,UK,Email,9,6,No,Not Returned,,fashion,PayPal,273.85,4,1095.4,114.54,2022-10-05
+Mario Ramirez,Male,57,Canada,Facebook,6,0,No,Returned,Arrived Damaged,toys,Cash on Delivery,58.92,0,0.0,0.0,2022-04-08
+Jason Flowers,Female,21,UK,Email,10,0,Yes,Not Returned,,beauty,Credit Card,156.63,0,0.0,0.0,2023-10-04
+Mikayla Gonzalez,Male,21,India,Facebook,1,1,No,Not Returned,,beauty,Debit Card,477.25,2,954.5,268.48,2023-06-13
+Mario Ramirez,Female,63,Canada,Email,3,3,No,Not Returned,,toys,Debit Card,499.86,2,999.72,226.79,2022-01-28
+David Wheeler,Male,62,Australia,Google,4,1,No,Returned,Item Not As Described,fashion,Cash on Delivery,282.67,4,1130.68,267.96,2022-10-18
+Mario Ramirez,Male,62,Canada,Billboard,3,1,No,Returned,Wrong Size,fashion,PayPal,322.46,1,322.46,93.67,2023-05-25
+Mikayla Gonzalez,Male,52,India,Email,3,1,No,Not Returned,,toys,Debit Card,243.51,1,243.51,52.77,2022-02-10
+Jason Flowers,Female,49,Australia,Billboard,10,1,No,Returned,Arrived Damaged,fashion,Cash on Delivery,98.57,4,394.28,47.9,2022-02-13
+Jason Flowers,Male,44,Canada,Twitter,6,5,No,Not Returned,,toys,PayPal,286.37,3,859.11,159.19,2023-01-02
+Melanie Hudson,Male,63,UK,Facebook,1,1,No,Returned,Wrong Size,home,Credit Card,277.13,2,554.26,104.4,2022-05-16
+Mario Ramirez,Female,64,Australia,Google,3,0,No,Returned,Changed Mind,fashion,PayPal,386.29,0,0.0,0.0,2022-11-13
+Jason Flowers,Female,49,UK,Google,7,5,No,Not Returned,,toys,Cash on Delivery,409.77,5,2048.85,251.65,2022-07-26
+Mario Ramirez,Female,40,UK,Twitter,4,0,No,Returned,,books,PayPal,378.86,0,0.0,0.0,2023-07-04
+David Wheeler,Male,19,France,Facebook,9,4,No,Not Returned,,electronics,Debit Card,118.29,5,591.45,131.18,2023-05-29
+Melanie Hudson,Male,65,France,Email,10,0,No,Returned,Arrived Damaged,books,Cash on Delivery,306.56,0,0.0,0.0,2023-09-15
+Mikayla Gonzalez,Female,58,India,Twitter,7,5,No,Not Returned,,electronics,PayPal,333.2,3,999.6,137.18,2022-07-09
+Mario Ramirez,Female,35,USA,Facebook,10,4,No,Returned,Wrong Size,fashion,PayPal,153.93,5,769.65,151.67,2023-06-15
+Jason Flowers,Male,37,Canada,Facebook,2,2,Yes,Returned,,electronics,Debit Card,200.71,3,602.13,149.2,2023-04-16
+Jason Flowers,Female,27,France,Email,3,2,Yes,Not Returned,,beauty,PayPal,279.23,4,1116.92,294.32,2022-03-12
+Jason Flowers,Male,47,UK,Billboard,7,6,No,Not Returned,,beauty,Credit Card,486.23,5,2431.15,402.74,2023-09-14
+Jason Flowers,Male,24,Australia,Twitter,6,2,No,Returned,Wrong Size,fashion,Debit Card,422.19,4,1688.76,255.74,2022-05-26
+Jason Flowers,Female,50,Australia,Twitter,2,1,No,Not Returned,,home,PayPal,165.54,1,165.54,31.2,2022-02-21
+Mario Ramirez,Female,54,India,Twitter,6,1,No,Not Returned,,electronics,Cash on Delivery,187.19,4,748.76,203.5,2023-11-27
+Melanie Hudson,Male,45,France,Instagram,3,3,Yes,Not Returned,,toys,PayPal,160.16,3,480.48,133.89,2023-12-31
+Mario Ramirez,Male,48,UK,Email,8,4,No,Not Returned,,electronics,PayPal,263.03,3,789.09,83.38,2023-01-31
+Melanie Hudson,Female,62,India,Email,2,0,Yes,Not Returned,,books,PayPal,308.06,0,0.0,0.0,2023-10-26
+Mikayla Gonzalez,Female,50,Canada,Billboard,4,0,No,Returned,Arrived Damaged,books,Cash on Delivery,201.04,0,0.0,0.0,2022-02-21
+David Wheeler,Female,30,Australia,Email,4,3,No,Returned,,home,Credit Card,223.56,1,223.56,57.97,2022-04-06
+Jason Flowers,Female,37,Australia,Instagram,6,5,No,Returned,,fashion,Debit Card,201.47,5,1007.35,117.34,2023-05-16
+Mikayla Gonzalez,Male,60,USA,Twitter,1,1,No,Returned,Item Not As Described,books,Debit Card,349.59,2,699.18,120.19,2022-03-24
+Jason Flowers,Female,62,Germany,Instagram,5,5,No,Not Returned,,books,Cash on Delivery,212.2,5,1061.0,234.29,2022-11-01
+Mikayla Gonzalez,Male,20,India,Email,1,1,No,Returned,Changed Mind,electronics,PayPal,279.75,5,1398.75,185.39,2022-02-20
+Melanie Hudson,Male,24,Germany,Twitter,7,5,Yes,Not Returned,,fashion,Debit Card,242.66,1,242.66,34.38,2022-02-18
+Jason Flowers,Male,41,USA,Twitter,5,0,No,Returned,Changed Mind,toys,Debit Card,320.14,0,0.0,0.0,2022-06-23
+Melanie Hudson,Male,31,France,Billboard,2,2,No,Not Returned,,home,Cash on Delivery,364.74,5,1823.7,190.52,2022-12-02
+Mikayla Gonzalez,Male,32,Germany,Email,4,0,No,Returned,Arrived Damaged,electronics,PayPal,178.86,0,0.0,0.0,2022-08-01
+Melanie Hudson,Female,50,India,Google,3,0,Yes,Not Returned,,electronics,PayPal,221.86,0,0.0,0.0,2023-09-02
+Mikayla Gonzalez,Female,23,Australia,Billboard,5,1,Yes,Not Returned,,beauty,Debit Card,56.44,4,225.76,34.57,2022-09-15
+Mikayla Gonzalez,Male,52,UK,Email,4,3,No,Returned,,beauty,PayPal,386.69,1,386.69,103.4,2022-06-25
+David Wheeler,Female,34,India,Email,10,9,No,Returned,Arrived Damaged,beauty,Cash on Delivery,161.44,2,322.88,74.86,2022-01-29
+Jason Flowers,Male,37,Germany,Facebook,6,1,No,Returned,Arrived Damaged,books,PayPal,186.87,2,373.74,48.97,2023-09-05
+Mikayla Gonzalez,Male,53,USA,Facebook,3,0,No,Not Returned,,electronics,Cash on Delivery,251.07,0,0.0,0.0,2023-06-08
+Jason Flowers,Female,25,France,Email,8,4,No,Not Returned,,beauty,Credit Card,21.73,2,43.46,10.44,2023-08-21
+Melanie Hudson,Male,55,UK,Google,8,8,No,Returned,,home,PayPal,145.05,2,290.1,67.49,2022-05-23
+Jason Flowers,Female,56,UK,Billboard,10,2,No,Returned,Changed Mind,toys,Debit Card,446.47,5,2232.35,652.3,2022-03-15
+Mario Ramirez,Female,38,USA,Email,1,0,Yes,Not Returned,,home,PayPal,253.34,0,0.0,0.0,2022-03-11
+Jason Flowers,Female,57,India,Billboard,1,0,Yes,Returned,,books,PayPal,182.08,0,0.0,0.0,2022-09-11
+Melanie Hudson,Male,37,USA,Google,2,2,No,Not Returned,,beauty,Debit Card,409.95,1,409.95,97.26,2022-11-15
+Jason Flowers,Male,30,Australia,Twitter,10,0,Yes,Not Returned,,beauty,Credit Card,90.18,0,0.0,0.0,2023-05-16
+David Wheeler,Female,26,Canada,Instagram,7,7,No,Returned,Changed Mind,home,Cash on Delivery,146.46,4,585.84,95.11,2022-11-07
+Jason Flowers,Female,40,Australia,Facebook,7,3,No,Not Returned,,books,Credit Card,316.27,2,632.54,126.53,2023-07-20
+Mikayla Gonzalez,Male,63,Canada,Billboard,4,4,No,Returned,Wrong Size,home,PayPal,101.6,1,101.6,30.05,2023-05-31
+Mikayla Gonzalez,Female,43,France,Instagram,7,4,No,Returned,,electronics,Credit Card,344.09,3,1032.27,160.66,2023-09-17
+David Wheeler,Female,27,India,Email,5,0,No,Not Returned,,beauty,PayPal,56.63,0,0.0,0.0,2022-11-10
+Melanie Hudson,Female,57,Australia,Email,10,3,No,Not Returned,,fashion,PayPal,301.83,4,1207.32,312.08,2022-07-17
+Melanie Hudson,Female,27,France,Facebook,2,1,No,Not Returned,,electronics,PayPal,335.71,5,1678.55,231.32,2023-06-02
+Jason Flowers,Male,41,UK,Twitter,10,2,No,Returned,,electronics,Cash on Delivery,240.85,3,722.55,89.97,2022-05-09
+Jason Flowers,Female,34,Germany,Billboard,3,2,No,Returned,,home,Cash on Delivery,155.56,5,777.8,147.34,2023-11-09
+Melanie Hudson,Male,41,India,Twitter,6,5,No,Returned,Item Not As Described,electronics,Cash on Delivery,264.53,3,793.59,89.45,2023-10-28
+David Wheeler,Male,23,Australia,Instagram,4,4,No,Not Returned,,beauty,Debit Card,27.11,3,81.33,13.04,2022-08-12
+Jason Flowers,Male,59,France,Email,10,0,No,Not Returned,,electronics,Debit Card,81.47,0,0.0,0.0,2022-05-05
+Mikayla Gonzalez,Female,34,USA,Instagram,10,6,No,Returned,Item Not As Described,books,Debit Card,120.85,3,362.55,89.14,2022-03-27
+Jason Flowers,Male,33,Germany,Google,9,5,No,Not Returned,,electronics,Credit Card,334.66,1,334.66,42.91,2023-12-30
+Mario Ramirez,Male,59,France,Billboard,4,2,No,Not Returned,,fashion,Debit Card,174.36,3,523.08,138.94,2023-06-15
+Melanie Hudson,Female,21,India,Facebook,8,1,Yes,Not Returned,,home,Credit Card,140.19,1,140.19,28.65,2023-11-24
+Mikayla Gonzalez,Female,61,France,Email,3,1,Yes,Returned,Item Not As Described,toys,Cash on Delivery,409.56,1,409.56,46.08,2022-05-03
+Melanie Hudson,Male,48,UK,Facebook,5,0,No,Returned,Arrived Damaged,home,PayPal,44.33,0,0.0,0.0,2022-08-02
+Jason Flowers,Female,53,France,Google,2,2,No,Not Returned,,books,Cash on Delivery,89.33,3,267.99,77.96,2022-10-13
+Mikayla Gonzalez,Female,27,Germany,Billboard,9,8,No,Returned,Arrived Damaged,fashion,PayPal,161.06,2,322.12,89.32,2022-10-30
+Melanie Hudson,Female,65,India,Billboard,3,0,No,Returned,Wrong Size,toys,Cash on Delivery,110.41,0,0.0,0.0,2022-04-09
+Mikayla Gonzalez,Female,65,UK,Instagram,9,5,No,Returned,Arrived Damaged,beauty,PayPal,83.19,2,166.38,45.29,2023-12-27
+Jason Flowers,Female,54,Australia,Google,7,1,No,Not Returned,,electronics,Credit Card,234.65,2,469.3,118.13,2023-04-30
+Jason Flowers,Male,53,Germany,Billboard,7,6,No,Returned,Arrived Damaged,home,Credit Card,39.93,2,79.86,12.32,2023-09-11
+Jason Flowers,Male,63,France,Facebook,5,1,No,Returned,Item Not As Described,toys,Cash on Delivery,489.48,1,489.48,142.87,2022-05-20
+Melanie Hudson,Male,18,USA,Instagram,4,0,No,Returned,,books,Credit Card,493.25,0,0.0,0.0,2022-04-23
+Mario Ramirez,Male,21,Australia,Facebook,10,8,Yes,Returned,Item Not As Described,beauty,Debit Card,398.56,2,797.12,221.02,2023-01-04
+Mario Ramirez,Female,21,Canada,Facebook,8,3,No,Not Returned,,home,Credit Card,467.54,2,935.08,123.16,2023-09-06
+David Wheeler,Male,21,Australia,Facebook,2,1,No,Returned,Item Not As Described,beauty,PayPal,472.79,5,2363.95,405.97,2022-07-10
+Melanie Hudson,Female,18,USA,Facebook,7,6,No,Not Returned,,fashion,Credit Card,204.24,2,408.48,42.58,2022-05-28
+Mario Ramirez,Male,19,UK,Google,10,3,No,Returned,Changed Mind,toys,Credit Card,130.29,4,521.16,109.47,2023-11-20
+Melanie Hudson,Male,38,Canada,Google,8,0,No,Not Returned,,toys,Debit Card,76.34,0,0.0,0.0,2023-03-10
+Mario Ramirez,Male,39,France,Billboard,10,1,No,Returned,Wrong Size,books,Debit Card,374.79,5,1873.95,337.88,2023-02-01
+Melanie Hudson,Female,59,UK,Instagram,7,6,No,Not Returned,,fashion,Credit Card,267.62,2,535.24,91.61,2022-07-24
+Jason Flowers,Female,48,France,Billboard,7,0,No,Returned,,fashion,Cash on Delivery,490.8,0,0.0,0.0,2023-06-11
+David Wheeler,Male,64,Canada,Twitter,7,0,No,Returned,Item Not As Described,fashion,Debit Card,57.64,0,0.0,0.0,2023-12-25
+Mario Ramirez,Female,48,USA,Email,2,1,No,Returned,Item Not As Described,beauty,Cash on Delivery,330.61,1,330.61,90.25,2022-05-12
+Melanie Hudson,Female,33,Australia,Instagram,2,1,No,Returned,Item Not As Described,electronics,PayPal,417.61,4,1670.44,342.53,2022-05-14
+Melanie Hudson,Female,47,Canada,Google,9,9,No,Not Returned,,fashion,Cash on Delivery,93.12,2,186.24,51.47,2023-04-26
+Jason Flowers,Female,46,Canada,Email,9,1,No,Not Returned,,home,Credit Card,62.54,3,187.62,48.74,2023-06-28
+Jason Flowers,Male,57,USA,Twitter,4,2,No,Not Returned,,electronics,Debit Card,277.03,1,277.03,34.27,2023-11-16
+Mikayla Gonzalez,Female,36,India,Twitter,2,1,No,Returned,Item Not As Described,toys,Credit Card,116.48,2,232.96,60.06,2022-03-16
+Melanie Hudson,Male,61,UK,Billboard,2,0,No,Not Returned,,books,PayPal,456.01,0,0.0,0.0,2023-01-26
+David Wheeler,Female,24,UK,Twitter,3,3,No,Returned,,toys,Credit Card,38.88,2,77.76,9.51,2022-11-27
+Melanie Hudson,Male,34,USA,Twitter,7,1,No,Not Returned,,electronics,Credit Card,298.27,2,596.54,125.63,2022-10-19
+Jason Flowers,Male,62,France,Facebook,1,0,No,Not Returned,,electronics,Cash on Delivery,273.92,0,0.0,0.0,2023-01-04
+Mikayla Gonzalez,Male,57,UK,Google,6,6,No,Not Returned,,beauty,Cash on Delivery,484.7,3,1454.1,339.09,2022-09-06
+Melanie Hudson,Female,27,Canada,Email,8,6,No,Not Returned,,home,PayPal,140.81,1,140.81,17.26,2022-07-10
+Melanie Hudson,Male,54,France,Instagram,4,3,No,Returned,Item Not As Described,toys,Cash on Delivery,284.28,5,1421.4,297.64,2023-03-30
+Mario Ramirez,Female,56,USA,Email,1,0,Yes,Not Returned,,toys,Credit Card,207.62,0,0.0,0.0,2022-03-19
+Jason Flowers,Female,37,UK,Facebook,8,5,No,Returned,Changed Mind,electronics,Debit Card,430.83,5,2154.15,316.92,2023-03-22
+David Wheeler,Male,36,Canada,Google,9,7,No,Not Returned,,books,Credit Card,74.7,5,373.5,107.99,2022-01-13
+Melanie Hudson,Male,32,Germany,Google,6,0,No,Not Returned,,electronics,Cash on Delivery,470.25,0,0.0,0.0,2022-09-10
+Mario Ramirez,Male,47,Canada,Facebook,9,4,No,Not Returned,,books,Debit Card,115.5,4,462.0,46.2,2023-12-03
+Melanie Hudson,Female,36,Canada,Twitter,2,2,No,Returned,,home,PayPal,137.57,4,550.28,160.41,2023-03-10
+David Wheeler,Female,65,UK,Email,6,2,No,Not Returned,,toys,Debit Card,140.86,3,422.58,61.36,2022-01-03
+David Wheeler,Male,34,Australia,Facebook,6,0,No,Not Returned,,books,Debit Card,417.1,0,0.0,0.0,2023-12-20
+Mario Ramirez,Female,65,Germany,Google,1,0,No,Returned,Wrong Size,fashion,Debit Card,297.65,0,0.0,0.0,2023-01-14
+Jason Flowers,Female,43,USA,Facebook,7,3,No,Not Returned,,fashion,Debit Card,306.42,2,612.84,119.99,2023-05-05
+Jason Flowers,Female,46,USA,Billboard,10,2,No,Not Returned,,books,Debit Card,281.87,4,1127.48,292.46,2023-12-28
+Jason Flowers,Female,42,UK,Google,7,2,No,Returned,Item Not As Described,toys,PayPal,384.98,2,769.96,162.51,2023-12-04
+Jason Flowers,Male,50,UK,Google,3,2,No,Returned,Item Not As Described,toys,Cash on Delivery,281.01,2,562.02,56.83,2022-12-19
+Mario Ramirez,Male,21,USA,Email,6,2,No,Not Returned,,beauty,PayPal,312.69,2,625.38,171.97,2022-01-21
+Mikayla Gonzalez,Female,28,Canada,Email,5,0,Yes,Not Returned,,books,Cash on Delivery,180.82,0,0.0,0.0,2023-07-19
+Mario Ramirez,Male,55,USA,Facebook,7,6,No,Not Returned,,books,Credit Card,420.35,3,1261.05,313.73,2023-11-20
+David Wheeler,Female,28,USA,Instagram,8,8,Yes,Not Returned,,beauty,Credit Card,163.57,5,817.85,214.4,2022-07-21
+Jason Flowers,Female,46,India,Billboard,4,2,No,Returned,Changed Mind,toys,Credit Card,256.57,4,1026.28,199.91,2023-06-20
+Mikayla Gonzalez,Male,32,USA,Facebook,3,2,No,Returned,Wrong Size,home,Credit Card,141.14,2,282.28,61.42,2022-04-06
+Melanie Hudson,Female,20,UK,Email,6,1,No,Not Returned,,fashion,Debit Card,130.1,5,650.5,90.35,2023-01-21
+Mikayla Gonzalez,Female,56,USA,Instagram,7,7,No,Returned,,books,Cash on Delivery,371.01,3,1113.03,229.97,2023-08-17
+Jason Flowers,Male,53,India,Twitter,4,1,No,Returned,Arrived Damaged,books,Cash on Delivery,358.01,5,1790.05,197.68,2022-10-26
+Jason Flowers,Female,23,UK,Instagram,6,5,No,Not Returned,,electronics,Cash on Delivery,191.43,4,765.72,82.23,2022-12-16
+Melanie Hudson,Female,49,UK,Billboard,10,0,No,Returned,,fashion,Cash on Delivery,310.46,0,0.0,0.0,2022-01-26
+Jason Flowers,Male,63,UK,Email,4,0,No,Not Returned,,fashion,Debit Card,264.4,0,0.0,0.0,2022-03-18
+Jason Flowers,Male,63,France,Facebook,1,0,No,Not Returned,,beauty,Debit Card,298.32,0,0.0,0.0,2023-07-16
+Mario Ramirez,Female,49,USA,Google,8,2,No,Returned,Item Not As Described,toys,PayPal,315.84,1,315.84,38.41,2023-06-02
+Mario Ramirez,Female,55,France,Facebook,3,0,No,Not Returned,,toys,Cash on Delivery,483.61,0,0.0,0.0,2023-05-11
+Mikayla Gonzalez,Female,19,India,Facebook,1,1,No,Not Returned,,beauty,Debit Card,196.99,1,196.99,33.86,2023-01-23
+Melanie Hudson,Male,55,Germany,Twitter,9,2,No,Returned,Item Not As Described,toys,Credit Card,72.95,3,218.85,49.0,2022-03-21
+David Wheeler,Male,62,Germany,Instagram,3,1,No,Not Returned,,home,Debit Card,331.4,3,994.2,262.41,2023-01-26
+Melanie Hudson,Female,45,USA,Twitter,1,1,No,Returned,Changed Mind,fashion,Debit Card,202.56,4,810.24,82.86,2022-12-08
+Mario Ramirez,Female,23,Australia,Instagram,2,0,No,Returned,Changed Mind,books,Credit Card,120.0,0,0.0,0.0,2023-07-16
+Jason Flowers,Female,27,Canada,Instagram,4,0,Yes,Not Returned,,electronics,Credit Card,118.87,0,0.0,0.0,2022-09-16
+Mikayla Gonzalez,Female,25,France,Facebook,4,2,No,Returned,,books,Credit Card,58.34,2,116.68,32.46,2023-12-16
+David Wheeler,Female,38,France,Instagram,9,8,No,Returned,,toys,Debit Card,78.12,4,312.48,84.57,2023-04-11
+David Wheeler,Male,63,Canada,Facebook,7,5,No,Returned,Wrong Size,books,PayPal,83.41,2,166.82,43.17,2023-09-24
+David Wheeler,Female,42,Australia,Google,10,3,No,Not Returned,,fashion,Credit Card,113.28,5,566.4,90.77,2022-05-25
+Jason Flowers,Female,61,USA,Billboard,5,5,No,Returned,Item Not As Described,electronics,Cash on Delivery,109.67,5,548.35,109.56,2022-12-08
+David Wheeler,Male,19,Canada,Facebook,2,1,No,Returned,Item Not As Described,toys,Debit Card,247.89,3,743.67,214.01,2023-09-21
+Mikayla Gonzalez,Female,21,India,Instagram,10,7,Yes,Returned,Wrong Size,fashion,Cash on Delivery,50.66,1,50.66,11.34,2022-06-29
+Mikayla Gonzalez,Male,62,France,Instagram,1,1,No,Not Returned,,toys,Debit Card,110.69,3,332.07,53.87,2022-05-12
+Jason Flowers,Male,61,Germany,Twitter,7,1,Yes,Not Returned,,home,PayPal,97.47,4,389.88,63.94,2023-11-17
+David Wheeler,Female,34,Canada,Email,3,0,No,Not Returned,,toys,PayPal,96.01,0,0.0,0.0,2022-11-19
+Jason Flowers,Female,34,UK,Billboard,6,0,No,Not Returned,,fashion,Debit Card,421.34,0,0.0,0.0,2023-03-14
+Mikayla Gonzalez,Male,35,Canada,Email,3,1,No,Not Returned,,books,Cash on Delivery,387.87,1,387.87,86.46,2023-04-29
+Mikayla Gonzalez,Female,37,USA,Google,3,2,Yes,Not Returned,,toys,PayPal,337.1,3,1011.3,176.51,2023-09-08
+Mario Ramirez,Female,38,USA,Google,4,3,No,Returned,Changed Mind,fashion,Cash on Delivery,103.44,2,206.88,41.37,2022-08-29
+Jason Flowers,Male,19,Australia,Facebook,8,7,Yes,Not Returned,,books,PayPal,243.09,2,486.18,143.42,2023-10-01
+Mario Ramirez,Female,18,Canada,Facebook,6,5,Yes,Not Returned,,toys,Cash on Delivery,283.67,3,851.01,194.36,2022-01-21
+Melanie Hudson,Male,34,France,Facebook,1,1,Yes,Returned,Wrong Size,fashion,Credit Card,491.28,5,2456.4,501.58,2022-05-01
+Mikayla Gonzalez,Male,30,UK,Billboard,8,0,No,Not Returned,,books,PayPal,452.33,0,0.0,0.0,2023-10-30
+Mikayla Gonzalez,Female,27,UK,Google,1,0,No,Returned,Arrived Damaged,fashion,Debit Card,294.21,0,0.0,0.0,2023-03-23
+Melanie Hudson,Female,40,Australia,Instagram,8,3,No,Not Returned,,beauty,Credit Card,268.11,2,536.22,66.45,2022-11-26
+David Wheeler,Female,33,India,Twitter,7,5,No,Returned,Changed Mind,beauty,Credit Card,355.08,4,1420.32,425.38,2023-01-23
+Melanie Hudson,Male,55,USA,Facebook,1,1,No,Not Returned,,books,Debit Card,136.51,1,136.51,36.56,2023-06-09
+Melanie Hudson,Male,63,Germany,Instagram,3,3,No,Returned,Wrong Size,toys,Cash on Delivery,232.54,1,232.54,67.65,2022-08-22
+Melanie Hudson,Female,54,France,Email,5,4,No,Not Returned,,books,Debit Card,271.54,2,543.08,92.06,2023-02-15
+Mikayla Gonzalez,Female,64,Canada,Twitter,6,6,No,Not Returned,,fashion,PayPal,494.67,1,494.67,144.75,2022-03-26
+Jason Flowers,Male,42,USA,Twitter,4,1,No,Returned,Arrived Damaged,electronics,Cash on Delivery,89.3,1,89.3,18.2,2023-07-20
+Jason Flowers,Male,58,Canada,Google,10,10,No,Returned,Arrived Damaged,toys,Debit Card,263.11,2,526.22,129.73,2022-06-09
+Mikayla Gonzalez,Female,38,India,Email,6,2,No,Returned,Wrong Size,home,Cash on Delivery,377.5,5,1887.5,381.48,2023-07-26
+Melanie Hudson,Female,41,Canada,Billboard,2,0,No,Returned,Item Not As Described,toys,Debit Card,49.37,0,0.0,0.0,2023-11-15
+Melanie Hudson,Male,64,France,Billboard,6,1,No,Returned,,beauty,Debit Card,187.76,3,563.28,105.29,2023-01-23
+Melanie Hudson,Female,58,Canada,Google,10,4,No,Not Returned,,books,Credit Card,271.59,5,1357.95,239.68,2022-02-16
+Mikayla Gonzalez,Male,41,USA,Billboard,6,0,No,Returned,Item Not As Described,fashion,Cash on Delivery,164.53,0,0.0,0.0,2023-10-03
+David Wheeler,Female,50,USA,Facebook,1,0,No,Not Returned,,electronics,PayPal,467.24,0,0.0,0.0,2022-11-22
+Mario Ramirez,Female,38,USA,Instagram,8,3,No,Not Returned,,books,Cash on Delivery,405.89,4,1623.56,200.03,2023-12-10
+Mario Ramirez,Male,51,France,Google,5,1,No,Returned,Item Not As Described,home,Debit Card,461.47,3,1384.41,351.25,2022-09-04
+Jason Flowers,Male,40,Germany,Facebook,1,1,No,Not Returned,,toys,PayPal,200.79,3,602.37,73.33,2022-09-30
+David Wheeler,Female,30,Australia,Email,4,0,No,Returned,Arrived Damaged,fashion,Debit Card,472.94,0,0.0,0.0,2023-10-20
+Mikayla Gonzalez,Female,60,UK,Email,1,1,No,Not Returned,,electronics,Cash on Delivery,198.84,4,795.36,89.45,2023-06-11
+David Wheeler,Female,35,Canada,Email,6,4,Yes,Returned,Wrong Size,home,Debit Card,326.41,5,1632.05,204.47,2023-12-28
+Melanie Hudson,Male,41,Australia,Facebook,8,8,No,Returned,Changed Mind,fashion,PayPal,79.53,1,79.53,12.62,2022-11-05
+Mario Ramirez,Male,32,Germany,Instagram,7,7,No,Not Returned,,books,Credit Card,114.98,1,114.98,26.0,2022-08-17
+David Wheeler,Male,34,UK,Twitter,5,1,No,Returned,Changed Mind,home,PayPal,358.12,2,716.24,189.12,2023-02-01
+Jason Flowers,Male,23,Australia,Google,8,7,No,Not Returned,,fashion,Credit Card,117.87,3,353.61,36.64,2023-05-12
+Mikayla Gonzalez,Male,41,Australia,Twitter,4,0,Yes,Returned,Wrong Size,toys,PayPal,243.7,0,0.0,0.0,2022-11-02
+Melanie Hudson,Female,34,UK,Google,4,3,No,Not Returned,,home,Debit Card,301.79,3,905.37,198.88,2022-05-12
+David Wheeler,Female,64,France,Instagram,4,4,No,Not Returned,,beauty,PayPal,208.34,1,208.34,42.71,2023-06-22
+Jason Flowers,Female,21,France,Twitter,2,0,No,Not Returned,,home,Cash on Delivery,276.93,0,0.0,0.0,2022-06-14
+Jason Flowers,Male,48,France,Instagram,10,9,No,Not Returned,,toys,PayPal,392.86,2,785.72,153.56,2023-11-01
+Melanie Hudson,Male,51,Germany,Email,6,5,No,Not Returned,,home,Debit Card,101.46,4,405.84,113.05,2022-04-29
+Mikayla Gonzalez,Female,22,India,Facebook,6,2,No,Returned,Item Not As Described,home,PayPal,174.01,4,696.04,87.37,2022-10-12
+David Wheeler,Female,20,Australia,Facebook,8,0,No,Not Returned,,electronics,Credit Card,31.02,0,0.0,0.0,2022-10-30
+David Wheeler,Male,21,India,Instagram,1,1,No,Not Returned,,electronics,PayPal,432.5,5,2162.5,460.73,2023-04-25
+Jason Flowers,Female,46,USA,Facebook,8,0,Yes,Returned,Item Not As Described,toys,Debit Card,374.74,0,0.0,0.0,2023-11-09
+Mario Ramirez,Male,62,USA,Email,8,7,Yes,Returned,,beauty,Credit Card,275.74,2,551.48,164.95,2023-08-20
+Mario Ramirez,Female,31,Canada,Twitter,4,0,No,Not Returned,,toys,PayPal,119.26,0,0.0,0.0,2022-03-31
+Mario Ramirez,Female,47,France,Google,8,0,No,Not Returned,,beauty,PayPal,64.57,0,0.0,0.0,2022-12-08
+Mario Ramirez,Male,40,Australia,Email,1,0,No,Not Returned,,fashion,PayPal,229.29,0,0.0,0.0,2023-05-01
+Mikayla Gonzalez,Female,31,India,Google,4,4,No,Not Returned,,books,Debit Card,60.7,1,60.7,10.89,2022-03-16
+Jason Flowers,Male,21,India,Facebook,7,5,No,Returned,,toys,PayPal,294.03,3,882.09,94.13,2023-11-03
+Jason Flowers,Male,52,Canada,Twitter,2,0,No,Returned,Item Not As Described,toys,PayPal,212.97,0,0.0,0.0,2022-09-17
+Mikayla Gonzalez,Male,23,India,Google,4,1,No,Not Returned,,books,Credit Card,491.31,3,1473.93,335.66,2022-04-01
+Mikayla Gonzalez,Male,63,Australia,Facebook,8,8,Yes,Not Returned,,home,Credit Card,68.51,4,274.04,39.48,2023-07-04
+Mario Ramirez,Male,24,Germany,Facebook,2,2,No,Returned,Wrong Size,toys,Credit Card,407.9,1,407.9,51.07,2023-01-15
+Melanie Hudson,Male,29,India,Google,2,2,No,Not Returned,,toys,Debit Card,310.56,2,621.12,141.81,2022-12-08
+Mikayla Gonzalez,Male,47,USA,Twitter,7,4,No,Returned,Changed Mind,toys,PayPal,485.93,4,1943.72,328.39,2022-03-25
+Jason Flowers,Male,46,Australia,Google,2,2,Yes,Returned,,beauty,Cash on Delivery,80.76,5,403.8,93.2,2022-04-04
+Mario Ramirez,Male,50,Germany,Instagram,5,5,No,Returned,,electronics,Credit Card,133.47,5,667.35,68.67,2023-06-15
+Melanie Hudson,Female,44,Australia,Google,4,2,No,Returned,Changed Mind,electronics,PayPal,244.51,4,978.04,187.78,2023-07-23
+Mario Ramirez,Female,47,Germany,Instagram,8,7,No,Returned,Arrived Damaged,fashion,Cash on Delivery,439.1,4,1756.4,346.93,2022-09-15
+Jason Flowers,Female,61,USA,Billboard,9,1,No,Returned,Wrong Size,beauty,Cash on Delivery,198.07,3,594.21,149.72,2023-11-24
+David Wheeler,Female,18,France,Billboard,8,4,No,Not Returned,,electronics,Debit Card,457.22,2,914.44,232.32,2022-12-18
+Mario Ramirez,Male,27,France,Google,4,1,No,Returned,Changed Mind,toys,Credit Card,298.05,4,1192.2,255.11,2022-09-18
+Melanie Hudson,Female,52,Germany,Billboard,10,6,No,Not Returned,,fashion,Cash on Delivery,486.97,4,1947.88,326.19,2023-04-21
+David Wheeler,Female,64,Australia,Billboard,5,0,No,Returned,,fashion,Debit Card,287.04,0,0.0,0.0,2022-05-03
+Mario Ramirez,Female,52,France,Facebook,9,1,No,Not Returned,,electronics,Cash on Delivery,313.76,1,313.76,39.73,2022-08-31
+Mario Ramirez,Female,49,India,Facebook,9,5,Yes,Not Returned,,books,Debit Card,102.32,2,204.64,54.83,2022-02-27
+David Wheeler,Male,18,India,Twitter,1,1,No,Not Returned,,beauty,PayPal,118.88,3,356.64,56.48,2023-10-14
+Mikayla Gonzalez,Female,48,USA,Instagram,2,2,Yes,Returned,,home,Credit Card,413.93,4,1655.72,298.93,2023-11-24
+Jason Flowers,Male,45,USA,Email,10,8,Yes,Not Returned,,electronics,Credit Card,133.87,3,401.61,40.85,2022-07-23
+Mario Ramirez,Male,52,France,Email,7,5,Yes,Returned,Changed Mind,beauty,PayPal,21.76,1,21.76,4.45,2022-06-04
+Jason Flowers,Male,59,France,Twitter,3,2,No,Returned,Wrong Size,home,PayPal,461.31,5,2306.55,307.15,2022-03-26
+Melanie Hudson,Female,63,France,Facebook,10,8,No,Returned,Item Not As Described,electronics,Cash on Delivery,193.83,4,775.32,175.43,2023-01-02
+Mikayla Gonzalez,Male,59,UK,Billboard,8,0,No,Not Returned,,books,PayPal,413.5,0,0.0,0.0,2022-12-08
+Jason Flowers,Male,22,India,Billboard,5,5,No,Returned,Arrived Damaged,home,Debit Card,183.13,3,549.39,106.81,2022-07-24
+David Wheeler,Female,27,India,Twitter,6,4,No,Returned,Item Not As Described,home,Debit Card,162.7,5,813.5,211.32,2023-09-13
+Melanie Hudson,Male,24,India,Instagram,6,1,No,Returned,Item Not As Described,books,Cash on Delivery,107.11,3,321.33,44.7,2022-11-28
+Melanie Hudson,Female,35,Canada,Google,6,1,No,Not Returned,,home,Debit Card,120.14,3,360.42,77.82,2023-05-07
+Melanie Hudson,Male,61,Australia,Email,5,1,No,Not Returned,,toys,Debit Card,82.55,2,165.1,46.29,2022-03-03
+Mikayla Gonzalez,Female,54,UK,Billboard,5,5,No,Returned,,home,Credit Card,328.61,5,1643.05,367.23,2023-04-16
+Jason Flowers,Female,57,France,Google,3,2,No,Returned,Arrived Damaged,fashion,Debit Card,424.29,3,1272.87,147.42,2022-06-21
+Melanie Hudson,Female,37,USA,Facebook,7,5,No,Not Returned,,toys,PayPal,164.39,1,164.39,42.56,2022-12-29
+Jason Flowers,Female,25,Canada,Billboard,1,1,No,Not Returned,,electronics,Credit Card,205.7,5,1028.5,255.09,2022-12-30
+David Wheeler,Female,19,Canada,Email,6,2,No,Not Returned,,fashion,PayPal,123.12,5,615.6,139.15,2022-12-22
+David Wheeler,Female,39,UK,Facebook,6,6,No,Not Returned,,toys,PayPal,430.89,4,1723.56,312.86,2023-08-29
+Mikayla Gonzalez,Female,29,India,Email,10,1,No,Not Returned,,beauty,Cash on Delivery,462.31,4,1849.24,414.79,2022-05-19
+Jason Flowers,Male,29,Australia,Instagram,1,1,Yes,Returned,,beauty,Cash on Delivery,450.84,5,2254.2,353.41,2022-08-27
+Jason Flowers,Male,43,UK,Billboard,9,7,No,Not Returned,,electronics,Credit Card,494.19,4,1976.76,368.67,2023-02-15
+David Wheeler,Male,62,Australia,Facebook,8,0,No,Not Returned,,fashion,Cash on Delivery,449.74,0,0.0,0.0,2023-10-30
+Melanie Hudson,Male,58,India,Facebook,8,6,No,Not Returned,,electronics,Debit Card,432.62,5,2163.1,312.12,2023-02-06
+David Wheeler,Female,18,France,Billboard,2,1,No,Returned,Changed Mind,books,Debit Card,78.04,5,390.2,107.76,2022-02-10
+Mikayla Gonzalez,Female,33,Canada,Instagram,6,6,Yes,Returned,,fashion,Cash on Delivery,41.58,3,124.74,31.4,2022-04-28
+Mikayla Gonzalez,Female,32,India,Google,10,10,Yes,Not Returned,,home,PayPal,393.64,5,1968.2,571.0,2022-12-16
+Jason Flowers,Female,53,Australia,Instagram,4,2,Yes,Returned,Changed Mind,toys,PayPal,483.93,4,1935.72,450.52,2022-02-10
+David Wheeler,Female,59,France,Google,6,6,No,Not Returned,,home,Cash on Delivery,84.7,5,423.5,113.95,2022-10-14
+Mario Ramirez,Female,46,France,Google,7,6,Yes,Returned,,books,Cash on Delivery,262.51,1,262.51,70.64,2022-07-15
+Mario Ramirez,Female,51,France,Instagram,7,7,No,Returned,Item Not As Described,home,PayPal,381.04,3,1143.12,278.9,2023-09-20
+Mario Ramirez,Female,51,Germany,Twitter,4,4,No,Not Returned,,home,PayPal,111.61,4,446.44,132.69,2022-12-21
+Jason Flowers,Male,64,France,Twitter,5,3,No,Not Returned,,beauty,Debit Card,161.17,2,322.34,96.55,2023-07-26
+David Wheeler,Female,27,France,Billboard,2,1,Yes,Not Returned,,books,Cash on Delivery,491.04,4,1964.16,377.86,2023-08-27
+Mikayla Gonzalez,Male,54,France,Billboard,3,3,No,Returned,Changed Mind,beauty,PayPal,236.74,2,473.48,92.81,2023-10-25
+Jason Flowers,Female,58,UK,Twitter,2,2,No,Not Returned,,fashion,Cash on Delivery,435.77,5,2178.85,441.07,2023-12-25
+David Wheeler,Male,48,Australia,Facebook,10,5,No,Returned,Arrived Damaged,beauty,Credit Card,35.76,2,71.52,13.24,2022-07-08
+Mario Ramirez,Male,49,India,Instagram,1,0,No,Not Returned,,toys,Credit Card,356.54,0,0.0,0.0,2023-03-25
+David Wheeler,Male,43,France,Instagram,2,1,No,Not Returned,,toys,Debit Card,152.79,5,763.95,98.62,2023-06-26
+Melanie Hudson,Male,23,France,Instagram,10,4,No,Returned,,fashion,PayPal,177.56,5,887.8,119.62,2022-07-30
+Melanie Hudson,Male,62,India,Email,7,6,No,Returned,Arrived Damaged,home,Cash on Delivery,268.27,1,268.27,79.25,2023-03-05
+Jason Flowers,Female,59,France,Instagram,9,1,Yes,Not Returned,,toys,Debit Card,84.64,4,338.56,48.32,2023-07-27
+Jason Flowers,Male,27,UK,Google,1,1,No,Not Returned,,fashion,Cash on Delivery,159.63,1,159.63,26.62,2022-06-07
+Mario Ramirez,Male,39,Australia,Billboard,6,6,No,Not Returned,,books,Debit Card,402.44,5,2012.2,222.96,2022-07-23
+Jason Flowers,Male,31,Australia,Billboard,5,3,No,Returned,,fashion,Debit Card,462.88,2,925.76,254.68,2022-11-17
+David Wheeler,Female,34,Germany,Google,1,0,No,Returned,Arrived Damaged,books,Credit Card,276.82,0,0.0,0.0,2022-09-17
+Melanie Hudson,Male,36,USA,Twitter,5,0,No,Returned,,electronics,Cash on Delivery,484.29,0,0.0,0.0,2023-02-22
+Mario Ramirez,Male,45,France,Email,3,1,Yes,Returned,Wrong Size,electronics,Debit Card,229.42,5,1147.1,212.53,2023-01-17
+Melanie Hudson,Male,22,Australia,Google,3,1,No,Not Returned,,electronics,PayPal,207.12,2,414.24,99.81,2022-03-15
+David Wheeler,Male,44,Germany,Instagram,3,3,No,Not Returned,,books,PayPal,286.45,3,859.35,218.86,2022-04-01
+David Wheeler,Female,65,India,Facebook,1,1,No,Returned,Item Not As Described,toys,Cash on Delivery,211.95,2,423.9,56.03,2022-07-16
+Mario Ramirez,Male,22,France,Billboard,2,1,No,Not Returned,,books,Debit Card,396.48,5,1982.4,339.12,2022-02-13
+Mikayla Gonzalez,Female,41,UK,Twitter,1,0,No,Returned,Changed Mind,toys,Debit Card,168.37,0,0.0,0.0,2023-07-25
+Mikayla Gonzalez,Male,61,Germany,Email,3,1,No,Returned,Changed Mind,fashion,Cash on Delivery,102.76,5,513.8,116.94,2022-10-05
+Melanie Hudson,Female,64,Canada,Billboard,8,3,No,Returned,Changed Mind,home,PayPal,358.99,1,358.99,68.98,2022-06-30
+Jason Flowers,Female,41,Canada,Email,1,0,No,Not Returned,,beauty,PayPal,497.98,0,0.0,0.0,2022-03-15
+Melanie Hudson,Female,42,USA,Twitter,6,3,No,Not Returned,,toys,Debit Card,373.95,1,373.95,56.38,2022-08-10
+Melanie Hudson,Female,48,France,Twitter,6,5,No,Not Returned,,toys,Debit Card,120.68,3,362.04,76.91,2022-12-18
+Melanie Hudson,Female,31,USA,Instagram,10,9,No,Not Returned,,fashion,Credit Card,193.26,5,966.3,252.06,2023-02-20
+Jason Flowers,Female,41,USA,Instagram,2,1,Yes,Not Returned,,fashion,Credit Card,93.75,2,187.5,38.47,2023-05-17
+Mikayla Gonzalez,Male,32,Canada,Facebook,5,0,No,Returned,Wrong Size,electronics,Cash on Delivery,415.49,0,0.0,0.0,2022-05-02
+David Wheeler,Male,58,Germany,Email,10,9,Yes,Not Returned,,books,PayPal,218.53,5,1092.65,321.56,2022-07-22
+David Wheeler,Male,53,Australia,Billboard,2,0,Yes,Not Returned,,books,Debit Card,468.12,0,0.0,0.0,2022-08-28
+David Wheeler,Male,29,USA,Billboard,6,1,No,Returned,Wrong Size,books,Credit Card,213.6,5,1068.0,312.87,2022-05-12
+Mikayla Gonzalez,Female,57,France,Billboard,8,7,No,Returned,Item Not As Described,fashion,PayPal,79.62,1,79.62,10.73,2023-12-18
+Melanie Hudson,Male,34,UK,Instagram,7,2,No,Not Returned,,books,Credit Card,295.62,2,591.24,118.43,2023-04-04
+Mikayla Gonzalez,Female,42,USA,Facebook,5,2,Yes,Returned,Arrived Damaged,beauty,Debit Card,25.3,4,101.2,28.25,2022-03-10
+David Wheeler,Female,55,India,Email,6,0,No,Returned,Changed Mind,electronics,Debit Card,290.22,0,0.0,0.0,2023-10-28
+Mario Ramirez,Female,65,India,Twitter,10,9,Yes,Returned,Wrong Size,toys,Debit Card,31.84,3,95.52,27.1,2023-02-02
+Jason Flowers,Female,19,France,Instagram,1,0,No,Returned,Arrived Damaged,books,Credit Card,348.06,0,0.0,0.0,2022-04-03
+Mario Ramirez,Female,41,USA,Instagram,9,7,No,Returned,Changed Mind,toys,Cash on Delivery,382.62,4,1530.48,173.5,2022-10-20
+Mikayla Gonzalez,Male,60,Canada,Facebook,10,6,No,Not Returned,,books,PayPal,325.4,5,1627.0,172.32,2023-12-29
+Melanie Hudson,Female,33,Canada,Billboard,5,5,No,Returned,Arrived Damaged,books,PayPal,248.55,4,994.2,264.11,2023-10-25
+Mikayla Gonzalez,Male,52,Canada,Google,6,3,No,Returned,Arrived Damaged,books,PayPal,182.39,4,729.56,199.05,2023-12-29
+Mikayla Gonzalez,Male,20,France,Email,3,1,No,Not Returned,,electronics,Debit Card,436.53,3,1309.59,351.87,2022-11-28
+Melanie Hudson,Female,36,India,Twitter,10,2,No,Not Returned,,beauty,Credit Card,432.59,4,1730.36,238.4,2023-12-31
+Mikayla Gonzalez,Female,46,Germany,Facebook,4,2,No,Returned,,fashion,Credit Card,51.64,2,103.28,12.85,2023-05-21
+Melanie Hudson,Female,62,UK,Facebook,10,10,Yes,Returned,Arrived Damaged,books,Cash on Delivery,115.53,1,115.53,18.26,2023-09-17
+Jason Flowers,Male,21,India,Billboard,6,1,No,Not Returned,,electronics,PayPal,340.01,5,1700.05,423.74,2022-01-19
+Mikayla Gonzalez,Male,59,USA,Google,8,4,No,Returned,Arrived Damaged,books,PayPal,196.04,3,588.12,116.78,2023-08-30
+David Wheeler,Male,46,USA,Twitter,8,2,No,Returned,Wrong Size,beauty,PayPal,473.2,4,1892.8,430.78,2022-08-24
+Mikayla Gonzalez,Female,48,Germany,Instagram,3,3,Yes,Not Returned,,books,PayPal,158.75,2,317.5,45.05,2022-09-25
+Jason Flowers,Female,45,Germany,Facebook,4,3,No,Not Returned,,home,PayPal,118.23,5,591.15,127.24,2023-04-24
+Jason Flowers,Female,55,USA,Email,9,0,Yes,Returned,,fashion,PayPal,260.07,0,0.0,0.0,2022-06-20
+Melanie Hudson,Male,46,Australia,Twitter,2,2,No,Returned,Wrong Size,toys,Credit Card,325.48,1,325.48,69.81,2023-12-14
+Melanie Hudson,Female,40,USA,Instagram,5,0,No,Returned,Arrived Damaged,books,Cash on Delivery,167.3,0,0.0,0.0,2023-09-23
+David Wheeler,Female,35,Australia,Email,8,5,No,Not Returned,,electronics,PayPal,416.64,2,833.28,225.91,2022-04-20
+Mario Ramirez,Male,22,India,Google,5,5,Yes,Returned,Wrong Size,electronics,PayPal,447.06,2,894.12,142.44,2023-06-12
+Mikayla Gonzalez,Male,33,UK,Email,7,3,No,Returned,Arrived Damaged,toys,Debit Card,212.28,1,212.28,43.21,2023-04-16
+Melanie Hudson,Female,30,Germany,Twitter,9,9,Yes,Not Returned,,fashion,PayPal,319.5,5,1597.5,188.68,2022-09-18
+Jason Flowers,Female,59,India,Facebook,2,1,No,Not Returned,,fashion,Cash on Delivery,184.62,1,184.62,51.85,2022-05-26
+Mikayla Gonzalez,Male,26,Canada,Email,9,3,No,Returned,Changed Mind,beauty,Credit Card,142.0,5,710.0,100.0,2023-02-06
+Melanie Hudson,Male,40,Germany,Facebook,4,0,No,Returned,,toys,Cash on Delivery,129.41,0,0.0,0.0,2023-08-08
+Mario Ramirez,Female,59,UK,Twitter,5,5,No,Not Returned,,books,Debit Card,172.56,3,517.68,131.32,2023-07-30
+Jason Flowers,Female,34,Germany,Billboard,1,0,No,Returned,Changed Mind,home,PayPal,199.05,0,0.0,0.0,2023-03-27
+Mario Ramirez,Female,29,UK,Google,1,0,No,Returned,,toys,PayPal,200.18,0,0.0,0.0,2023-10-17
+Mario Ramirez,Female,33,Australia,Facebook,9,7,No,Not Returned,,books,Credit Card,38.38,3,115.14,26.09,2022-07-02
+Mikayla Gonzalez,Female,62,Canada,Google,1,1,Yes,Returned,Wrong Size,beauty,Debit Card,96.14,4,384.56,58.71,2023-09-30
+Melanie Hudson,Female,35,Germany,Facebook,9,1,No,Returned,Wrong Size,beauty,Credit Card,305.89,2,611.78,64.9,2022-09-01
+Melanie Hudson,Male,42,USA,Google,7,3,Yes,Returned,Arrived Damaged,toys,Credit Card,23.98,5,119.9,30.51,2022-01-08
+Jason Flowers,Male,26,France,Twitter,3,2,No,Not Returned,,books,Debit Card,78.22,2,156.44,21.38,2022-03-15
+Mario Ramirez,Female,31,Germany,Twitter,4,3,No,Not Returned,,toys,PayPal,134.18,5,670.9,187.02,2023-04-07
+Jason Flowers,Female,22,Germany,Google,9,9,Yes,Not Returned,,electronics,Credit Card,438.42,2,876.84,192.44,2022-02-28
+Mikayla Gonzalez,Male,35,France,Google,9,7,No,Returned,Wrong Size,toys,PayPal,210.15,2,420.3,92.6,2023-11-29
+Jason Flowers,Male,33,UK,Twitter,2,0,No,Returned,Arrived Damaged,home,Cash on Delivery,496.53,0,0.0,0.0,2022-05-02
+Mario Ramirez,Male,27,USA,Instagram,4,2,No,Returned,Arrived Damaged,home,Cash on Delivery,23.68,5,118.4,26.06,2023-12-01
+David Wheeler,Male,23,UK,Email,1,1,No,Returned,,books,Cash on Delivery,404.5,4,1618.0,165.51,2023-09-07
+Jason Flowers,Male,56,Australia,Instagram,7,3,Yes,Returned,Changed Mind,toys,Debit Card,364.8,1,364.8,80.88,2023-05-08
+Jason Flowers,Male,47,France,Instagram,7,2,No,Returned,Wrong Size,books,PayPal,103.32,1,103.32,26.55,2022-12-02
+David Wheeler,Female,40,UK,Twitter,1,1,No,Returned,Item Not As Described,fashion,Debit Card,50.08,5,250.4,70.74,2023-04-12
+Jason Flowers,Male,20,Germany,Facebook,1,1,Yes,Returned,,beauty,PayPal,241.97,2,483.94,132.37,2022-09-29
+Mikayla Gonzalez,Female,64,India,Facebook,9,6,No,Not Returned,,electronics,PayPal,316.25,2,632.5,159.58,2023-06-10
+David Wheeler,Female,55,USA,Billboard,5,2,No,Not Returned,,books,Cash on Delivery,208.18,4,832.72,216.04,2022-02-18
+Mikayla Gonzalez,Male,21,France,Email,8,6,No,Returned,Wrong Size,fashion,Debit Card,264.99,3,794.97,191.39,2022-09-25
+Mario Ramirez,Male,26,UK,Facebook,3,2,Yes,Returned,Changed Mind,toys,Debit Card,75.06,5,375.3,107.1,2022-10-31
+Jason Flowers,Male,26,India,Google,1,1,No,Returned,Wrong Size,home,Debit Card,429.25,3,1287.75,253.82,2022-01-25
+David Wheeler,Male,40,Germany,Google,3,3,No,Returned,Wrong Size,fashion,Debit Card,37.13,3,111.39,22.73,2022-12-08
+Mikayla Gonzalez,Male,47,France,Facebook,10,10,Yes,Not Returned,,electronics,PayPal,347.6,1,347.6,93.53,2023-10-15
+Jason Flowers,Female,23,USA,Facebook,4,0,No,Not Returned,,beauty,Cash on Delivery,121.48,0,0.0,0.0,2022-01-13
+Mikayla Gonzalez,Female,27,Australia,Facebook,9,1,No,Returned,Wrong Size,books,PayPal,130.46,4,521.84,123.19,2023-04-21
+Jason Flowers,Male,27,Australia,Google,2,0,No,Returned,,beauty,Debit Card,326.43,0,0.0,0.0,2023-06-14
+Mario Ramirez,Female,50,India,Facebook,10,7,No,Not Returned,,home,PayPal,452.11,2,904.22,118.63,2022-07-07
+David Wheeler,Male,58,UK,Google,8,6,No,Not Returned,,beauty,Debit Card,367.56,5,1837.8,261.56,2023-04-06
+David Wheeler,Male,53,India,Facebook,2,0,Yes,Returned,Item Not As Described,books,Credit Card,220.03,0,0.0,0.0,2023-10-28
+Mario Ramirez,Male,28,Germany,Google,9,2,No,Returned,,toys,Debit Card,311.34,5,1556.7,384.24,2022-08-03
+Melanie Hudson,Male,36,India,Facebook,9,7,No,Returned,Wrong Size,electronics,Credit Card,425.15,3,1275.45,160.23,2022-05-22
+Mario Ramirez,Female,18,UK,Facebook,6,3,No,Returned,,beauty,Credit Card,374.75,4,1499.0,425.91,2023-02-12
+Mikayla Gonzalez,Female,30,Germany,Google,7,0,No,Not Returned,,electronics,PayPal,308.76,0,0.0,0.0,2022-06-17
+Mikayla Gonzalez,Male,57,Canada,Billboard,10,7,No,Returned,Arrived Damaged,electronics,Credit Card,463.79,5,2318.95,356.73,2022-02-23
+Mikayla Gonzalez,Male,54,Germany,Facebook,2,2,No,Not Returned,,home,Debit Card,45.85,3,137.55,39.44,2022-03-12
+Mario Ramirez,Male,55,USA,Google,2,0,No,Returned,Item Not As Described,books,Debit Card,266.69,0,0.0,0.0,2022-01-18
+Melanie Hudson,Female,30,Germany,Google,9,1,No,Returned,,fashion,Credit Card,82.04,4,328.16,39.83,2023-04-22
+Mikayla Gonzalez,Male,34,India,Google,10,2,No,Returned,Item Not As Described,beauty,Credit Card,488.37,2,976.74,260.94,2023-11-08
+Jason Flowers,Male,38,Canada,Billboard,10,7,No,Not Returned,,toys,PayPal,251.71,2,503.42,52.16,2022-12-06
+David Wheeler,Female,36,USA,Google,4,0,No,Not Returned,,books,Cash on Delivery,497.11,0,0.0,0.0,2023-01-20
+Jason Flowers,Female,56,Canada,Email,4,2,No,Returned,Item Not As Described,toys,Credit Card,220.06,3,660.18,93.17,2023-08-20
+Melanie Hudson,Female,22,Germany,Twitter,8,1,No,Returned,Changed Mind,home,Credit Card,294.69,2,589.38,74.81,2022-06-26
+Jason Flowers,Female,49,Canada,Twitter,9,1,No,Not Returned,,beauty,Cash on Delivery,139.54,3,418.62,93.14,2023-12-02
+Mikayla Gonzalez,Male,20,France,Email,8,6,No,Returned,Arrived Damaged,fashion,Cash on Delivery,366.76,3,1100.28,180.0,2022-09-21
+Melanie Hudson,Male,49,UK,Twitter,6,3,No,Returned,Arrived Damaged,books,Cash on Delivery,130.58,5,652.9,91.1,2023-01-04
+David Wheeler,Female,29,USA,Twitter,3,1,No,Returned,Item Not As Described,fashion,Cash on Delivery,276.7,1,276.7,30.57,2022-12-17
+David Wheeler,Female,20,Australia,Billboard,1,1,No,Not Returned,,toys,PayPal,50.1,4,200.4,28.46,2022-08-22
+Mario Ramirez,Female,39,Germany,Google,4,1,No,Not Returned,,toys,PayPal,24.19,2,48.38,8.15,2023-04-15
+Mario Ramirez,Female,31,USA,Google,7,0,No,Not Returned,,beauty,Credit Card,368.12,0,0.0,0.0,2023-11-02
+David Wheeler,Female,44,UK,Google,9,6,Yes,Returned,Wrong Size,electronics,Debit Card,82.21,4,328.84,47.78,2023-08-15
+Jason Flowers,Female,30,India,Billboard,7,2,No,Returned,,home,Cash on Delivery,160.63,3,481.89,81.36,2023-11-14
+Jason Flowers,Male,34,Germany,Facebook,4,2,No,Returned,Changed Mind,beauty,Debit Card,318.62,1,318.62,84.17,2022-09-08
+Mikayla Gonzalez,Male,54,France,Instagram,5,1,Yes,Returned,Item Not As Described,electronics,Debit Card,277.71,3,833.13,87.65,2022-07-11
+Jason Flowers,Male,30,UK,Twitter,4,2,No,Not Returned,,toys,Debit Card,483.94,4,1935.76,258.08,2023-08-19
+Mikayla Gonzalez,Female,31,France,Twitter,5,4,No,Not Returned,,home,Cash on Delivery,205.0,3,615.0,78.27,2022-07-14
+Mikayla Gonzalez,Female,48,Germany,Billboard,2,2,No,Not Returned,,home,PayPal,35.27,3,105.81,22.63,2023-12-05
+David Wheeler,Female,40,UK,Google,8,1,No,Not Returned,,fashion,Debit Card,164.32,4,657.28,97.72,2023-07-10
+Jason Flowers,Female,57,India,Facebook,10,9,No,Not Returned,,fashion,Credit Card,186.39,5,931.95,225.97,2023-09-16
+Mario Ramirez,Female,43,Germany,Instagram,3,0,No,Returned,Wrong Size,toys,PayPal,259.0,0,0.0,0.0,2023-05-05
+Mario Ramirez,Female,29,UK,Twitter,10,2,No,Returned,Item Not As Described,home,Cash on Delivery,325.46,1,325.46,50.42,2022-09-26
+Mikayla Gonzalez,Female,56,India,Google,4,3,No,Not Returned,,electronics,Debit Card,351.67,2,703.34,86.76,2023-05-25
+Mario Ramirez,Female,44,France,Email,3,2,Yes,Returned,Item Not As Described,fashion,PayPal,296.09,2,592.18,130.33,2023-12-02
+David Wheeler,Male,41,Australia,Facebook,7,5,No,Returned,Arrived Damaged,beauty,Debit Card,31.8,2,63.6,13.55,2022-08-06
+Melanie Hudson,Female,27,Australia,Instagram,2,0,No,Returned,Item Not As Described,fashion,Credit Card,439.87,0,0.0,0.0,2022-08-07
+Jason Flowers,Female,54,France,Instagram,5,3,No,Not Returned,,toys,Debit Card,183.43,5,917.15,99.4,2023-02-08
+Mikayla Gonzalez,Female,34,India,Instagram,7,1,No,Returned,Changed Mind,books,Credit Card,110.68,4,442.72,51.45,2023-01-02
+Melanie Hudson,Male,25,UK,Billboard,5,0,No,Not Returned,,beauty,Credit Card,344.39,0,0.0,0.0,2023-03-03
+Mario Ramirez,Male,41,USA,Billboard,10,1,No,Not Returned,,books,PayPal,341.3,1,341.3,77.96,2023-05-18
+Melanie Hudson,Male,59,Germany,Email,7,2,No,Returned,Item Not As Described,home,PayPal,433.68,3,1301.04,238.62,2023-07-18
+Mikayla Gonzalez,Male,20,Germany,Email,5,0,No,Returned,Item Not As Described,fashion,Debit Card,379.13,0,0.0,0.0,2023-10-14
+Mario Ramirez,Male,24,Germany,Twitter,9,9,No,Returned,Wrong Size,electronics,Cash on Delivery,114.5,2,229.0,53.44,2023-03-06
+Melanie Hudson,Female,64,India,Instagram,2,1,No,Returned,Item Not As Described,electronics,Debit Card,298.32,1,298.32,40.05,2023-11-28
+David Wheeler,Female,48,Germany,Google,6,5,No,Not Returned,,toys,Debit Card,277.99,3,833.97,212.7,2022-04-05
+Mikayla Gonzalez,Male,43,India,Twitter,6,4,No,Not Returned,,books,Debit Card,171.41,2,342.82,96.1,2022-05-05
+Jason Flowers,Female,37,France,Instagram,2,2,No,Not Returned,,toys,Cash on Delivery,65.28,2,130.56,19.36,2022-10-06
+Mikayla Gonzalez,Male,46,USA,Billboard,3,0,No,Not Returned,,toys,Credit Card,487.5,0,0.0,0.0,2022-12-31
+Melanie Hudson,Male,51,Germany,Email,8,5,No,Returned,,home,Debit Card,134.43,1,134.43,35.15,2022-07-29
+Mikayla Gonzalez,Female,50,Germany,Google,2,1,No,Not Returned,,fashion,Credit Card,430.12,4,1720.48,180.18,2023-08-25
+Mikayla Gonzalez,Male,38,Germany,Facebook,6,1,Yes,Returned,Changed Mind,beauty,Cash on Delivery,130.02,2,260.04,30.59,2023-09-16
+David Wheeler,Male,49,France,Instagram,1,0,Yes,Returned,Item Not As Described,books,Cash on Delivery,476.5,0,0.0,0.0,2023-09-30
+Melanie Hudson,Male,25,India,Google,3,0,No,Not Returned,,books,Credit Card,209.02,0,0.0,0.0,2023-12-21
+David Wheeler,Female,38,Germany,Facebook,9,2,No,Not Returned,,electronics,Debit Card,289.55,4,1158.2,226.52,2022-07-14
+Mario Ramirez,Male,48,Canada,Facebook,7,6,No,Not Returned,,fashion,Credit Card,43.57,1,43.57,8.86,2022-09-27
+Mikayla Gonzalez,Male,42,Germany,Email,5,5,No,Not Returned,,beauty,Credit Card,294.07,5,1470.35,240.8,2022-07-22
+Mario Ramirez,Male,65,France,Instagram,9,5,Yes,Not Returned,,electronics,Credit Card,198.87,5,994.35,121.16,2022-06-08
+Mikayla Gonzalez,Male,38,India,Google,8,2,No,Returned,Changed Mind,electronics,Credit Card,373.38,1,373.38,79.53,2022-05-05
+David Wheeler,Male,44,France,Email,7,0,Yes,Returned,Changed Mind,toys,Debit Card,275.6,0,0.0,0.0,2023-07-23
+Mikayla Gonzalez,Female,35,Canada,Instagram,3,1,No,Not Returned,,beauty,Credit Card,160.19,4,640.76,107.07,2023-06-14
+Mario Ramirez,Female,18,USA,Twitter,5,2,No,Returned,Arrived Damaged,beauty,PayPal,363.81,2,727.62,113.24,2023-11-11
+David Wheeler,Female,50,India,Email,6,6,No,Returned,Changed Mind,electronics,Cash on Delivery,494.21,2,988.42,201.36,2023-04-20
+David Wheeler,Male,19,UK,Twitter,9,7,No,Returned,,fashion,Credit Card,257.29,2,514.58,108.95,2023-06-30
+Mario Ramirez,Female,18,UK,Billboard,6,3,No,Returned,,fashion,Credit Card,456.85,3,1370.55,378.36,2022-12-25
+David Wheeler,Female,53,India,Email,4,4,No,Not Returned,,books,Debit Card,343.98,5,1719.9,229.02,2023-04-23
+David Wheeler,Male,19,India,Instagram,5,3,No,Returned,Item Not As Described,fashion,Credit Card,181.33,2,362.66,89.07,2022-11-05
+Jason Flowers,Female,52,Canada,Google,6,3,No,Not Returned,,beauty,PayPal,113.01,5,565.05,99.7,2022-01-10
+Mikayla Gonzalez,Male,27,France,Twitter,7,0,No,Not Returned,,fashion,PayPal,72.64,0,0.0,0.0,2023-08-26
+Mikayla Gonzalez,Male,46,India,Google,6,1,No,Returned,Arrived Damaged,electronics,Debit Card,182.53,2,365.06,67.1,2022-03-05
+Mikayla Gonzalez,Male,40,Germany,Google,6,1,No,Not Returned,,books,Credit Card,151.46,4,605.84,181.08,2023-06-05
+Mikayla Gonzalez,Male,43,India,Twitter,7,6,No,Returned,Changed Mind,books,PayPal,35.08,4,140.32,22.9,2022-10-05
+Jason Flowers,Female,23,Australia,Email,10,10,Yes,Not Returned,,books,PayPal,341.86,2,683.72,142.76,2022-07-04
+Jason Flowers,Male,20,Canada,Google,2,2,Yes,Returned,Changed Mind,home,Credit Card,264.95,4,1059.8,220.3,2022-03-18
+Melanie Hudson,Male,50,Australia,Google,5,1,No,Returned,Changed Mind,electronics,Credit Card,214.99,3,644.97,141.21,2023-10-07
+Melanie Hudson,Female,32,India,Google,4,4,No,Returned,Arrived Damaged,fashion,Debit Card,142.17,4,568.68,93.38,2022-02-13
+Jason Flowers,Female,23,India,Instagram,2,1,No,Returned,Wrong Size,home,Cash on Delivery,495.83,3,1487.49,370.57,2023-04-11
+Melanie Hudson,Female,23,Australia,Google,4,1,No,Returned,Wrong Size,toys,PayPal,311.85,2,623.7,171.15,2023-07-01
+Mario Ramirez,Male,49,UK,Billboard,9,2,Yes,Returned,Wrong Size,fashion,Cash on Delivery,160.88,2,321.76,96.24,2023-11-29
+Melanie Hudson,Male,43,Canada,Billboard,1,1,No,Not Returned,,electronics,Credit Card,446.04,2,892.08,179.04,2022-05-04
+Mario Ramirez,Male,26,Canada,Twitter,5,3,No,Not Returned,,home,Debit Card,210.92,5,1054.6,291.19,2022-06-04
+Mikayla Gonzalez,Female,33,Canada,Google,9,6,No,Returned,,books,PayPal,36.46,2,72.92,14.67,2022-05-17
+Mario Ramirez,Male,19,USA,Twitter,6,2,No,Returned,,toys,Debit Card,216.63,5,1083.15,166.39,2022-03-09
+David Wheeler,Male,58,Canada,Instagram,8,2,No,Not Returned,,fashion,Cash on Delivery,84.65,1,84.65,23.67,2022-05-08
+Melanie Hudson,Male,18,France,Email,3,0,Yes,Returned,Changed Mind,fashion,Debit Card,436.16,0,0.0,0.0,2022-12-01
+Melanie Hudson,Male,20,Australia,Instagram,9,4,Yes,Returned,Arrived Damaged,toys,PayPal,463.05,1,463.05,116.23,2022-01-06
+Mikayla Gonzalez,Female,33,India,Email,4,0,Yes,Not Returned,,home,PayPal,353.26,0,0.0,0.0,2022-05-26
+Mikayla Gonzalez,Female,37,Canada,Twitter,3,1,No,Returned,Item Not As Described,home,Cash on Delivery,80.45,2,160.9,34.72,2023-02-18
+Melanie Hudson,Male,58,Germany,Instagram,7,2,No,Returned,Item Not As Described,toys,Credit Card,213.1,3,639.3,167.45,2022-11-25
+Mikayla Gonzalez,Male,18,Germany,Facebook,1,1,No,Not Returned,,toys,Debit Card,414.26,2,828.52,118.95,2023-01-16
+Melanie Hudson,Male,33,France,Email,2,2,No,Returned,Item Not As Described,beauty,Cash on Delivery,416.15,5,2080.75,451.58,2023-05-07
+David Wheeler,Female,20,UK,Email,5,1,Yes,Returned,Wrong Size,electronics,PayPal,116.63,5,583.15,127.17,2023-07-01
+Mikayla Gonzalez,Female,34,India,Billboard,7,0,No,Not Returned,,beauty,PayPal,331.76,0,0.0,0.0,2023-08-21
+Mikayla Gonzalez,Female,51,USA,Billboard,4,2,No,Returned,Changed Mind,home,PayPal,76.97,2,153.94,45.08,2023-05-11
+Jason Flowers,Male,29,Germany,Billboard,1,0,Yes,Not Returned,,fashion,Cash on Delivery,282.64,0,0.0,0.0,2022-07-07
+Jason Flowers,Male,42,Canada,Email,2,1,No,Not Returned,,beauty,Debit Card,499.84,3,1499.52,211.68,2022-05-10
+David Wheeler,Female,18,USA,Twitter,8,6,No,Not Returned,,toys,Debit Card,485.68,2,971.36,169.64,2022-06-13
+Jason Flowers,Male,48,Germany,Facebook,2,0,No,Returned,Item Not As Described,beauty,Cash on Delivery,276.59,0,0.0,0.0,2023-03-26
+Mario Ramirez,Female,47,France,Twitter,10,9,No,Not Returned,,toys,Cash on Delivery,422.6,5,2113.0,341.2,2023-03-03
+Melanie Hudson,Male,35,USA,Email,10,1,No,Not Returned,,fashion,Credit Card,139.84,1,139.84,30.06,2022-02-11
+Mikayla Gonzalez,Male,59,Germany,Instagram,2,2,No,Returned,Arrived Damaged,beauty,PayPal,444.52,2,889.04,108.63,2022-02-25
+Mikayla Gonzalez,Male,43,UK,Twitter,9,3,No,Returned,Arrived Damaged,toys,Debit Card,171.69,4,686.76,77.48,2023-12-28
+Mario Ramirez,Female,22,Germany,Twitter,7,4,No,Returned,Item Not As Described,books,PayPal,352.23,3,1056.69,315.97,2023-03-11
+Mikayla Gonzalez,Male,32,Australia,Email,2,0,No,Returned,,toys,Credit Card,162.69,0,0.0,0.0,2022-10-05
+Mikayla Gonzalez,Male,33,Australia,Email,8,0,No,Returned,Changed Mind,home,PayPal,320.73,0,0.0,0.0,2023-03-23
+Mario Ramirez,Female,65,France,Google,6,5,No,Returned,Wrong Size,beauty,Credit Card,186.92,5,934.6,233.81,2022-11-01
+Melanie Hudson,Female,57,USA,Email,1,0,Yes,Returned,Changed Mind,toys,Debit Card,47.94,0,0.0,0.0,2023-04-24
+Melanie Hudson,Female,47,Australia,Instagram,8,8,No,Not Returned,,fashion,Cash on Delivery,361.38,4,1445.52,220.62,2023-07-17
+David Wheeler,Male,18,USA,Instagram,5,5,No,Not Returned,,books,PayPal,190.6,2,381.2,66.66,2023-02-10
+Jason Flowers,Female,29,Canada,Twitter,7,5,Yes,Returned,,home,Credit Card,175.55,1,175.55,30.11,2022-06-23
+Melanie Hudson,Male,25,UK,Facebook,4,0,No,Returned,Arrived Damaged,electronics,PayPal,240.48,0,0.0,0.0,2022-08-26
+Mario Ramirez,Male,42,Australia,Facebook,2,1,No,Returned,Changed Mind,toys,Credit Card,64.1,4,256.4,56.02,2022-09-22
+Mario Ramirez,Female,26,Australia,Twitter,3,3,No,Returned,,home,Cash on Delivery,93.81,3,281.43,46.83,2022-09-01
+Mario Ramirez,Male,48,India,Google,6,5,No,Returned,Changed Mind,home,PayPal,147.92,4,591.68,59.61,2023-01-18
+Mikayla Gonzalez,Female,64,Germany,Email,4,2,No,Not Returned,,books,PayPal,382.06,3,1146.18,318.94,2023-02-18
+Mario Ramirez,Female,35,UK,Twitter,10,7,No,Returned,Wrong Size,home,Cash on Delivery,235.02,2,470.04,81.17,2023-10-16
+Jason Flowers,Male,42,USA,Billboard,3,2,No,Not Returned,,fashion,Credit Card,166.04,3,498.12,106.99,2022-05-07
+David Wheeler,Female,28,Australia,Email,7,6,No,Returned,Wrong Size,books,Debit Card,387.75,2,775.5,104.72,2022-06-28
+David Wheeler,Male,51,USA,Email,4,4,No,Returned,Changed Mind,home,Cash on Delivery,407.14,2,814.28,108.5,2023-05-28
+Mario Ramirez,Male,36,Germany,Twitter,7,1,No,Returned,Arrived Damaged,electronics,Cash on Delivery,395.96,1,395.96,108.64,2023-06-26
+Mikayla Gonzalez,Female,42,USA,Facebook,7,1,No,Not Returned,,electronics,Cash on Delivery,173.38,3,520.14,62.21,2023-01-22
+Mikayla Gonzalez,Male,63,Canada,Instagram,2,1,No,Not Returned,,toys,PayPal,88.23,1,88.23,12.07,2023-03-17
+David Wheeler,Male,27,Canada,Google,10,3,Yes,Not Returned,,home,Debit Card,410.07,2,820.14,88.44,2022-10-08
+Mario Ramirez,Male,30,France,Facebook,8,6,No,Returned,,beauty,Credit Card,102.74,5,513.7,133.2,2023-03-10
+Mario Ramirez,Male,30,Germany,Twitter,5,0,Yes,Returned,Wrong Size,home,PayPal,424.77,0,0.0,0.0,2022-12-22
+David Wheeler,Female,63,Germany,Facebook,4,2,No,Not Returned,,toys,Debit Card,106.82,1,106.82,30.58,2023-03-05
+Melanie Hudson,Male,20,USA,Instagram,2,2,No,Not Returned,,home,Debit Card,456.11,1,456.11,65.43,2022-02-07
+Mikayla Gonzalez,Male,19,France,Facebook,6,6,No,Returned,Changed Mind,books,Cash on Delivery,70.88,4,283.52,81.29,2023-06-14
+Mikayla Gonzalez,Female,64,India,Instagram,3,3,Yes,Not Returned,,toys,Cash on Delivery,77.79,4,311.16,56.03,2023-05-14
+Mario Ramirez,Female,27,Canada,Email,8,8,No,Not Returned,,fashion,Credit Card,380.82,2,761.64,157.36,2022-04-10
+David Wheeler,Female,55,India,Billboard,5,5,No,Returned,Changed Mind,electronics,Cash on Delivery,319.13,5,1595.65,330.41,2022-11-25
+Mikayla Gonzalez,Male,39,UK,Facebook,8,6,No,Returned,,home,Cash on Delivery,102.96,4,411.84,92.83,2022-10-07
+David Wheeler,Female,25,Germany,Billboard,4,2,No,Not Returned,,books,Cash on Delivery,208.48,5,1042.4,177.58,2022-11-03
+Mario Ramirez,Male,22,USA,Google,8,2,No,Not Returned,,electronics,PayPal,110.83,2,221.66,46.17,2023-01-10
+Mario Ramirez,Female,42,UK,Billboard,6,2,No,Returned,,fashion,Cash on Delivery,434.57,5,2172.85,252.22,2022-01-10
+Jason Flowers,Female,32,India,Google,4,4,No,Not Returned,,fashion,Credit Card,320.23,4,1280.92,356.02,2023-05-03
+David Wheeler,Male,42,USA,Email,8,2,Yes,Returned,Wrong Size,beauty,Debit Card,118.25,1,118.25,26.78,2022-10-16
+Mikayla Gonzalez,Female,37,Germany,Email,6,6,No,Returned,Changed Mind,home,Cash on Delivery,420.72,1,420.72,107.55,2022-10-18
+Melanie Hudson,Male,50,Australia,Facebook,2,0,No,Not Returned,,electronics,Debit Card,222.05,0,0.0,0.0,2023-07-01
+Jason Flowers,Male,33,UK,Google,7,0,No,Returned,,electronics,Debit Card,491.44,0,0.0,0.0,2023-11-10
+Mikayla Gonzalez,Male,25,Germany,Instagram,2,2,No,Returned,Changed Mind,fashion,Debit Card,430.4,4,1721.6,514.89,2023-08-22
+Melanie Hudson,Male,51,UK,Google,10,5,No,Returned,Wrong Size,books,Cash on Delivery,54.05,2,108.1,13.86,2023-08-23
+Melanie Hudson,Male,29,France,Facebook,3,1,No,Returned,,fashion,PayPal,310.76,1,310.76,42.24,2023-09-01
+Melanie Hudson,Male,44,France,Email,10,10,Yes,Returned,Item Not As Described,home,Cash on Delivery,168.35,5,841.75,148.86,2022-10-17
+David Wheeler,Male,49,France,Facebook,10,2,No,Not Returned,,fashion,Debit Card,31.01,5,155.05,25.31,2023-10-04
+Mario Ramirez,Female,37,India,Facebook,9,8,No,Returned,Arrived Damaged,beauty,PayPal,108.13,3,324.39,52.42,2023-03-25
+Melanie Hudson,Male,40,Germany,Email,7,6,No,Returned,Arrived Damaged,electronics,Cash on Delivery,318.97,4,1275.88,253.89,2022-06-04
+Mario Ramirez,Male,43,India,Email,4,3,No,Not Returned,,toys,PayPal,450.21,4,1800.84,280.27,2023-12-02
+Melanie Hudson,Male,56,Australia,Google,3,3,No,Not Returned,,books,PayPal,109.42,4,437.68,79.78,2023-06-16
+Melanie Hudson,Male,28,Germany,Google,3,1,No,Returned,,electronics,Cash on Delivery,359.42,1,359.42,97.83,2023-12-31
+Mario Ramirez,Female,38,Germany,Instagram,6,3,Yes,Returned,Changed Mind,electronics,PayPal,244.79,4,979.16,284.9,2022-11-21
+Jason Flowers,Female,30,Canada,Google,10,7,No,Not Returned,,home,Debit Card,428.59,1,428.59,101.2,2022-12-31
+Melanie Hudson,Female,44,USA,Instagram,4,3,No,Not Returned,,books,Debit Card,238.97,2,477.94,57.63,2022-11-15
+David Wheeler,Female,56,India,Email,8,2,No,Not Returned,,toys,Credit Card,319.91,5,1599.55,307.68,2022-03-19
+Mario Ramirez,Male,55,India,Billboard,6,3,No,Not Returned,,books,Credit Card,325.98,3,977.94,157.76,2022-07-03
+Melanie Hudson,Female,32,USA,Billboard,9,6,Yes,Not Returned,,books,PayPal,134.85,5,674.25,186.25,2022-01-29
+Mikayla Gonzalez,Female,25,Germany,Email,5,0,No,Not Returned,,home,PayPal,294.0,0,0.0,0.0,2023-07-07
+Mikayla Gonzalez,Male,19,Germany,Billboard,6,5,No,Not Returned,,electronics,Cash on Delivery,414.0,2,828.0,223.82,2022-02-19
+Mikayla Gonzalez,Male,53,France,Google,2,1,Yes,Returned,Item Not As Described,books,PayPal,293.34,3,880.02,131.65,2023-06-28
+Jason Flowers,Male,29,France,Google,3,0,No,Not Returned,,books,Cash on Delivery,162.55,0,0.0,0.0,2023-04-09
+Mikayla Gonzalez,Male,38,India,Facebook,7,4,No,Not Returned,,toys,Cash on Delivery,107.36,4,429.44,60.38,2023-08-23
+Mario Ramirez,Male,32,India,Google,6,6,Yes,Returned,Item Not As Described,beauty,Debit Card,386.31,2,772.62,205.81,2022-08-12
+David Wheeler,Male,25,UK,Instagram,8,3,Yes,Returned,Arrived Damaged,books,PayPal,366.86,2,733.72,99.57,2023-07-04
+Jason Flowers,Male,22,France,Billboard,4,0,Yes,Returned,Changed Mind,home,Credit Card,301.66,0,0.0,0.0,2022-07-11
+Jason Flowers,Male,39,Canada,Instagram,2,1,Yes,Returned,Item Not As Described,fashion,Credit Card,448.29,3,1344.87,240.6,2023-11-10
+David Wheeler,Male,20,Australia,Facebook,7,3,No,Returned,,toys,Cash on Delivery,406.47,5,2032.35,559.88,2023-04-20
+David Wheeler,Male,38,Canada,Email,7,7,No,Not Returned,,home,Cash on Delivery,324.1,5,1620.5,346.57,2022-09-18
+David Wheeler,Male,32,Australia,Instagram,3,1,No,Returned,,beauty,Debit Card,243.06,2,486.12,92.2,2023-12-28
+Jason Flowers,Male,62,Germany,Email,1,1,Yes,Returned,Arrived Damaged,electronics,Cash on Delivery,455.71,4,1822.84,271.15,2022-04-10
+Mikayla Gonzalez,Male,30,Australia,Email,9,5,No,Returned,Changed Mind,toys,Debit Card,102.54,1,102.54,29.12,2023-05-29
+David Wheeler,Male,38,Canada,Email,1,0,No,Not Returned,,electronics,Credit Card,101.76,0,0.0,0.0,2022-08-28
+Mikayla Gonzalez,Male,20,Canada,Facebook,2,2,Yes,Returned,,books,PayPal,69.31,4,277.24,47.46,2023-10-04
+David Wheeler,Male,42,India,Email,8,7,Yes,Not Returned,,fashion,PayPal,147.82,4,591.28,100.38,2022-01-27
+Melanie Hudson,Female,54,Canada,Twitter,8,6,No,Returned,Arrived Damaged,beauty,Credit Card,459.0,4,1836.0,254.65,2023-04-25
+Mario Ramirez,Male,44,Australia,Google,1,0,Yes,Returned,Arrived Damaged,home,Debit Card,205.28,0,0.0,0.0,2022-12-17
+Melanie Hudson,Male,61,USA,Google,2,1,Yes,Not Returned,,books,Debit Card,403.61,4,1614.44,199.7,2022-05-27
+Mikayla Gonzalez,Female,46,France,Twitter,1,0,No,Returned,Changed Mind,beauty,Debit Card,488.11,0,0.0,0.0,2022-02-02
+Mikayla Gonzalez,Male,64,Australia,Twitter,2,2,Yes,Not Returned,,beauty,Credit Card,350.91,3,1052.73,245.38,2023-09-17
+David Wheeler,Male,22,France,Billboard,7,2,No,Not Returned,,electronics,PayPal,366.02,5,1830.1,380.75,2022-01-21
+Mikayla Gonzalez,Female,55,USA,Twitter,3,2,No,Not Returned,,beauty,Credit Card,259.54,2,519.08,81.7,2023-10-13
+David Wheeler,Female,55,Canada,Twitter,7,3,No,Returned,Arrived Damaged,beauty,PayPal,403.51,3,1210.53,282.91,2023-02-06
+David Wheeler,Male,24,Canada,Google,8,6,No,Not Returned,,toys,PayPal,353.04,2,706.08,72.67,2022-04-06
+David Wheeler,Female,28,France,Instagram,6,0,No,Not Returned,,fashion,Credit Card,354.84,0,0.0,0.0,2022-04-19
+Melanie Hudson,Female,41,India,Facebook,6,1,No,Not Returned,,fashion,Credit Card,261.63,3,784.89,222.43,2022-07-01
+Mikayla Gonzalez,Male,19,Canada,Google,7,5,No,Returned,,fashion,Cash on Delivery,63.3,5,316.5,33.03,2022-10-22
+Mikayla Gonzalez,Female,47,Germany,Instagram,9,8,No,Not Returned,,books,Credit Card,495.31,5,2476.55,521.79,2023-11-16
+Mikayla Gonzalez,Female,24,Australia,Billboard,10,2,Yes,Not Returned,,fashion,PayPal,108.7,4,434.8,94.84,2023-08-02
+Mario Ramirez,Female,33,UK,Instagram,10,3,No,Returned,Item Not As Described,beauty,Debit Card,213.61,4,854.44,173.77,2022-08-01
+Mario Ramirez,Female,22,Australia,Facebook,1,0,No,Not Returned,,beauty,PayPal,337.12,0,0.0,0.0,2022-08-14
+Mario Ramirez,Male,40,Canada,Google,5,5,No,Returned,Wrong Size,home,Debit Card,432.41,4,1729.64,378.56,2023-03-30
+David Wheeler,Female,18,France,Google,10,6,No,Returned,Item Not As Described,beauty,Cash on Delivery,350.29,5,1751.45,409.06,2023-04-22
+Mario Ramirez,Female,47,Australia,Billboard,8,5,No,Not Returned,,books,Cash on Delivery,351.4,1,351.4,36.76,2022-09-12
+Jason Flowers,Male,60,Australia,Email,4,1,Yes,Returned,Wrong Size,books,Credit Card,462.52,1,462.52,89.01,2023-08-09
+David Wheeler,Male,45,Germany,Facebook,6,2,No,Returned,,books,PayPal,211.15,2,422.3,56.28,2023-03-23
+Mario Ramirez,Male,24,India,Billboard,1,0,No,Not Returned,,electronics,Cash on Delivery,33.26,0,0.0,0.0,2022-06-19
+Mikayla Gonzalez,Male,44,France,Email,5,0,No,Not Returned,,books,Debit Card,27.79,0,0.0,0.0,2023-06-09
+Jason Flowers,Male,59,Australia,Google,7,6,No,Not Returned,,toys,Debit Card,295.1,1,295.1,64.23,2022-08-17
+Mikayla Gonzalez,Male,27,France,Google,5,0,Yes,Returned,Wrong Size,fashion,PayPal,41.85,0,0.0,0.0,2022-02-20
+Jason Flowers,Female,46,Germany,Facebook,3,0,No,Not Returned,,fashion,Cash on Delivery,345.57,0,0.0,0.0,2023-03-28
+Mario Ramirez,Female,28,Australia,Google,6,6,No,Returned,Arrived Damaged,toys,Cash on Delivery,155.17,5,775.85,128.59,2022-06-12
+David Wheeler,Female,53,France,Facebook,4,0,No,Not Returned,,beauty,Cash on Delivery,288.01,0,0.0,0.0,2023-10-05
+Melanie Hudson,Female,45,USA,Facebook,1,1,No,Not Returned,,toys,PayPal,147.21,5,736.05,155.33,2022-11-07
+Melanie Hudson,Female,29,France,Twitter,2,1,Yes,Not Returned,,books,Cash on Delivery,483.86,2,967.72,111.74,2022-06-15
+Mikayla Gonzalez,Female,26,France,Billboard,7,6,No,Returned,Wrong Size,electronics,Cash on Delivery,261.73,3,785.19,153.29,2023-09-26
+Jason Flowers,Male,50,UK,Billboard,3,1,No,Returned,,toys,Debit Card,295.93,3,887.79,171.83,2022-06-30
+David Wheeler,Male,29,Germany,Instagram,5,4,No,Returned,Wrong Size,fashion,PayPal,253.55,3,760.65,212.86,2022-03-13
+Melanie Hudson,Female,41,Canada,Billboard,4,4,No,Returned,Changed Mind,fashion,Credit Card,305.95,3,917.85,239.53,2023-04-15
+David Wheeler,Female,52,Canada,Billboard,9,3,No,Not Returned,,books,PayPal,73.52,3,220.56,33.75,2023-05-02
+Jason Flowers,Male,65,Germany,Instagram,5,0,No,Returned,Wrong Size,beauty,Credit Card,247.52,0,0.0,0.0,2022-12-18
+David Wheeler,Male,57,Australia,Instagram,8,3,Yes,Returned,,electronics,Cash on Delivery,171.95,5,859.75,163.52,2023-05-22
+Jason Flowers,Male,36,France,Facebook,3,2,No,Returned,Changed Mind,books,Cash on Delivery,305.85,5,1529.25,398.85,2023-02-02
+Jason Flowers,Male,26,France,Google,2,2,No,Not Returned,,beauty,Debit Card,437.78,4,1751.12,312.25,2022-10-07
+David Wheeler,Male,25,Germany,Google,6,6,No,Returned,Changed Mind,home,Cash on Delivery,226.89,5,1134.45,152.58,2023-02-15
+Melanie Hudson,Male,21,Australia,Billboard,3,3,Yes,Not Returned,,home,Debit Card,75.16,5,375.8,111.71,2022-01-07
+Jason Flowers,Male,37,Australia,Facebook,6,0,No,Not Returned,,toys,PayPal,62.05,0,0.0,0.0,2023-11-24
+David Wheeler,Male,54,Canada,Google,2,1,No,Not Returned,,fashion,Credit Card,228.54,3,685.62,85.14,2023-09-13
+David Wheeler,Male,53,Australia,Instagram,3,3,No,Returned,Arrived Damaged,fashion,Debit Card,240.95,4,963.8,131.21,2023-04-03
+Melanie Hudson,Male,63,France,Twitter,2,2,Yes,Not Returned,,home,Credit Card,450.03,5,2250.15,254.52,2022-03-03
+David Wheeler,Female,25,USA,Twitter,4,0,Yes,Not Returned,,home,Credit Card,176.81,0,0.0,0.0,2023-04-14
+Melanie Hudson,Female,64,France,Twitter,5,3,No,Not Returned,,fashion,Credit Card,271.62,1,271.62,74.38,2023-05-18
+Mario Ramirez,Male,56,Germany,Billboard,9,8,No,Not Returned,,beauty,PayPal,454.28,2,908.56,91.4,2022-03-17
+Jason Flowers,Male,63,Canada,Facebook,10,9,No,Returned,Wrong Size,electronics,Debit Card,71.54,4,286.16,40.63,2022-10-28
+David Wheeler,Male,35,India,Email,3,1,No,Not Returned,,electronics,PayPal,146.89,5,734.45,195.88,2023-11-04
+Jason Flowers,Female,43,Germany,Email,1,0,Yes,Returned,Wrong Size,home,Credit Card,399.82,0,0.0,0.0,2023-11-19
+Mikayla Gonzalez,Female,25,USA,Twitter,8,2,No,Not Returned,,books,PayPal,241.28,4,965.12,223.12,2023-09-03
+Mario Ramirez,Female,56,France,Instagram,1,0,Yes,Returned,Changed Mind,home,Credit Card,240.63,0,0.0,0.0,2022-03-04
+Mario Ramirez,Male,40,Canada,Instagram,9,4,No,Returned,,electronics,Debit Card,83.06,5,415.3,115.41,2023-12-02
+Jason Flowers,Male,35,France,Email,1,1,No,Returned,Arrived Damaged,fashion,PayPal,377.78,2,755.56,159.72,2023-07-01
+Melanie Hudson,Male,62,USA,Twitter,7,2,Yes,Returned,Wrong Size,beauty,PayPal,171.14,1,171.14,40.58,2022-10-28
+Mikayla Gonzalez,Male,43,Australia,Google,7,6,No,Returned,Item Not As Described,toys,Credit Card,92.29,5,461.45,54.16,2022-06-27
+Mikayla Gonzalez,Male,24,India,Google,4,1,No,Returned,Changed Mind,electronics,Debit Card,279.22,2,558.44,147.86,2023-01-29
+Mikayla Gonzalez,Male,55,Canada,Instagram,1,1,Yes,Not Returned,,books,Cash on Delivery,133.12,1,133.12,22.0,2023-06-17
+Jason Flowers,Male,50,Australia,Billboard,4,3,No,Returned,Arrived Damaged,books,PayPal,449.32,1,449.32,52.55,2022-04-29
+Jason Flowers,Male,54,India,Twitter,2,0,No,Returned,,electronics,Cash on Delivery,155.95,0,0.0,0.0,2022-09-04
+Mario Ramirez,Female,20,India,Instagram,5,2,No,Not Returned,,books,Debit Card,499.92,3,1499.76,181.46,2022-07-02
+Mikayla Gonzalez,Female,47,India,Twitter,4,2,No,Not Returned,,electronics,PayPal,415.93,2,831.86,228.99,2023-04-24
+Jason Flowers,Female,41,Germany,Facebook,1,1,Yes,Not Returned,,fashion,Credit Card,330.22,1,330.22,96.56,2022-03-02
+Melanie Hudson,Male,59,Australia,Instagram,8,4,No,Returned,Changed Mind,electronics,Debit Card,90.27,1,90.27,12.33,2023-10-23
+Jason Flowers,Male,19,Australia,Email,6,6,Yes,Not Returned,,electronics,Debit Card,339.52,5,1697.6,421.45,2023-07-31
+Mario Ramirez,Male,60,India,Facebook,9,5,No,Returned,Wrong Size,toys,Credit Card,199.18,1,199.18,42.57,2023-04-06
+David Wheeler,Male,22,India,Email,7,1,No,Not Returned,,home,Cash on Delivery,383.75,1,383.75,44.97,2023-07-26
+Mario Ramirez,Female,48,USA,Twitter,1,1,No,Not Returned,,beauty,PayPal,329.53,1,329.53,71.33,2023-07-15
+Jason Flowers,Male,37,India,Instagram,1,1,No,Not Returned,,fashion,PayPal,496.73,4,1986.92,344.25,2022-06-24
+Mario Ramirez,Male,38,France,Facebook,1,1,No,Not Returned,,home,Debit Card,41.68,1,41.68,9.4,2023-10-30
+Mikayla Gonzalez,Female,46,India,Twitter,9,8,No,Returned,Arrived Damaged,home,Debit Card,74.98,2,149.96,25.89,2023-10-26
+Melanie Hudson,Male,18,UK,Twitter,3,0,No,Not Returned,,books,Cash on Delivery,437.92,0,0.0,0.0,2022-03-15
+Mikayla Gonzalez,Female,62,India,Facebook,4,2,No,Returned,Arrived Damaged,fashion,PayPal,79.26,5,396.3,101.83,2022-09-20
+Mikayla Gonzalez,Female,27,USA,Facebook,2,1,No,Not Returned,,toys,Cash on Delivery,488.36,3,1465.08,354.31,2022-02-25
+Mikayla Gonzalez,Female,28,Australia,Email,3,2,Yes,Not Returned,,beauty,Cash on Delivery,205.26,2,410.52,72.52,2023-11-09
+David Wheeler,Male,21,USA,Email,8,4,No,Not Returned,,home,Cash on Delivery,74.32,4,297.28,44.22,2022-07-15
+Mikayla Gonzalez,Female,33,UK,Instagram,2,0,Yes,Not Returned,,electronics,Debit Card,118.01,0,0.0,0.0,2022-04-27
+Melanie Hudson,Male,27,India,Facebook,9,4,No,Returned,Arrived Damaged,fashion,PayPal,354.31,2,708.62,112.49,2022-08-23
+Mario Ramirez,Male,41,USA,Instagram,7,3,No,Returned,Changed Mind,fashion,PayPal,442.62,4,1770.48,463.3,2022-06-08
+Melanie Hudson,Female,28,USA,Instagram,7,1,Yes,Not Returned,,electronics,Credit Card,29.76,4,119.04,23.61,2022-10-17
+Mario Ramirez,Female,24,Canada,Facebook,9,0,Yes,Not Returned,,toys,Debit Card,324.5,0,0.0,0.0,2023-06-30
+David Wheeler,Male,36,France,Facebook,2,2,No,Not Returned,,beauty,Credit Card,355.43,1,355.43,66.85,2022-05-03
+Jason Flowers,Male,39,Australia,Billboard,8,3,Yes,Not Returned,,toys,Cash on Delivery,203.2,5,1016.0,193.36,2023-10-08
+Mikayla Gonzalez,Female,49,India,Facebook,6,6,No,Returned,Arrived Damaged,fashion,Debit Card,139.4,3,418.2,89.81,2022-05-11
+Mikayla Gonzalez,Female,27,Germany,Email,2,1,No,Not Returned,,fashion,PayPal,321.31,4,1285.24,235.45,2022-06-22
+Melanie Hudson,Female,41,UK,Facebook,1,1,No,Returned,Arrived Damaged,beauty,Debit Card,222.2,2,444.4,50.08,2023-10-03
+Mario Ramirez,Male,53,Australia,Google,4,4,No,Returned,Item Not As Described,electronics,Cash on Delivery,393.66,2,787.32,129.15,2023-11-28
+Melanie Hudson,Female,37,Germany,Facebook,10,8,No,Not Returned,,books,Credit Card,323.09,2,646.18,88.63,2023-02-28
+Mikayla Gonzalez,Male,30,France,Billboard,4,1,Yes,Not Returned,,beauty,Debit Card,79.8,3,239.4,47.24,2023-06-11
+Melanie Hudson,Female,43,USA,Twitter,2,2,No,Returned,Wrong Size,beauty,Debit Card,58.77,1,58.77,15.12,2023-05-23
+Jason Flowers,Female,24,India,Email,3,0,No,Not Returned,,toys,Cash on Delivery,104.15,0,0.0,0.0,2023-05-30
+David Wheeler,Female,26,Canada,Instagram,5,1,No,Not Returned,,electronics,Cash on Delivery,46.17,2,92.34,12.17,2022-08-02
+Jason Flowers,Female,29,India,Google,6,1,No,Returned,Changed Mind,electronics,Debit Card,427.57,2,855.14,230.32,2022-03-08
+Mikayla Gonzalez,Female,37,Australia,Instagram,5,0,No,Returned,Item Not As Described,fashion,Credit Card,112.72,0,0.0,0.0,2023-01-07
+David Wheeler,Female,56,Australia,Billboard,9,7,Yes,Returned,Wrong Size,beauty,Debit Card,270.54,3,811.62,124.71,2022-12-01
+David Wheeler,Female,45,Germany,Email,3,3,No,Returned,Arrived Damaged,electronics,Cash on Delivery,365.87,5,1829.35,251.16,2023-04-24
+Mario Ramirez,Male,36,Australia,Email,10,4,No,Not Returned,,fashion,Credit Card,404.64,4,1618.56,208.98,2022-04-10
+David Wheeler,Female,42,France,Email,1,1,Yes,Returned,,home,Debit Card,348.79,2,697.58,136.21,2022-02-17
+Mikayla Gonzalez,Male,52,France,Instagram,9,9,No,Not Returned,,electronics,Cash on Delivery,308.43,1,308.43,52.94,2023-04-28
+Melanie Hudson,Male,65,India,Billboard,3,0,No,Not Returned,,home,Cash on Delivery,30.26,0,0.0,0.0,2023-05-10
+Melanie Hudson,Male,47,France,Email,2,0,No,Returned,Arrived Damaged,books,Debit Card,468.69,0,0.0,0.0,2023-07-21
+Jason Flowers,Male,28,Australia,Twitter,10,4,Yes,Not Returned,,books,Credit Card,214.9,1,214.9,55.29,2022-03-20
+David Wheeler,Male,25,Germany,Google,9,7,No,Not Returned,,toys,Credit Card,448.01,4,1792.04,446.91,2022-09-20
+Mario Ramirez,Female,34,Canada,Email,5,3,No,Returned,Arrived Damaged,beauty,Credit Card,124.91,3,374.73,106.11,2023-06-05
+Melanie Hudson,Female,44,Germany,Instagram,7,7,No,Returned,Item Not As Described,books,Debit Card,482.95,3,1448.85,345.81,2022-01-17
+Melanie Hudson,Female,45,Australia,Twitter,7,4,No,Returned,Item Not As Described,books,PayPal,495.57,2,991.14,268.55,2023-12-17
+Mario Ramirez,Female,64,Canada,Facebook,5,4,Yes,Returned,Wrong Size,books,Debit Card,152.95,1,152.95,26.26,2022-12-23
+Jason Flowers,Male,47,Australia,Billboard,8,4,Yes,Not Returned,,home,Credit Card,91.08,3,273.24,42.15,2023-09-04
+Mario Ramirez,Male,45,Australia,Billboard,5,2,No,Not Returned,,beauty,PayPal,61.42,5,307.1,55.62,2023-02-09
+David Wheeler,Female,62,UK,Email,3,0,No,Not Returned,,home,Credit Card,448.79,0,0.0,0.0,2023-03-01
+Jason Flowers,Female,31,Australia,Instagram,2,0,No,Returned,Item Not As Described,electronics,Cash on Delivery,221.59,0,0.0,0.0,2023-07-20
+Mikayla Gonzalez,Male,23,France,Billboard,4,4,No,Returned,Wrong Size,fashion,Credit Card,81.84,5,409.2,90.12,2022-11-15
+Mikayla Gonzalez,Female,44,USA,Billboard,6,5,Yes,Returned,Item Not As Described,fashion,PayPal,128.58,1,128.58,19.64,2023-04-01
+Melanie Hudson,Male,48,France,Twitter,10,5,No,Not Returned,,electronics,Credit Card,209.9,5,1049.5,113.7,2022-10-31
+Jason Flowers,Male,50,France,Billboard,6,0,No,Not Returned,,fashion,Debit Card,232.57,0,0.0,0.0,2023-05-09
+Melanie Hudson,Male,41,Australia,Billboard,1,1,No,Returned,,toys,PayPal,127.52,1,127.52,17.67,2022-01-28
+Mario Ramirez,Female,54,Canada,Google,2,1,No,Returned,Arrived Damaged,home,Cash on Delivery,330.37,5,1651.85,180.76,2023-04-25
+Mario Ramirez,Female,20,UK,Twitter,7,1,No,Returned,Wrong Size,books,Credit Card,201.63,2,403.26,108.77,2022-02-24
+Jason Flowers,Male,63,USA,Email,7,7,Yes,Not Returned,,electronics,PayPal,333.59,3,1000.77,151.19,2022-04-13
+David Wheeler,Male,48,USA,Billboard,2,0,No,Not Returned,,books,Credit Card,403.9,0,0.0,0.0,2023-02-12
+Melanie Hudson,Female,62,France,Google,2,1,No,Not Returned,,books,Cash on Delivery,159.61,2,319.22,81.94,2022-07-18
+Mikayla Gonzalez,Female,21,Australia,Email,9,5,No,Returned,Arrived Damaged,books,PayPal,366.47,5,1832.35,223.16,2023-11-26
+Mikayla Gonzalez,Female,22,Germany,Google,2,2,No,Returned,Arrived Damaged,books,PayPal,189.02,5,945.1,167.48,2023-03-17
+Mario Ramirez,Male,31,Australia,Billboard,7,6,No,Not Returned,,beauty,PayPal,188.43,3,565.29,107.44,2023-08-17
+Mario Ramirez,Male,49,Australia,Email,1,0,Yes,Not Returned,,home,PayPal,334.95,0,0.0,0.0,2022-08-07
+Melanie Hudson,Male,41,Australia,Facebook,1,1,No,Returned,Changed Mind,electronics,Credit Card,180.24,2,360.48,67.42,2023-03-24
+Mikayla Gonzalez,Female,57,Australia,Email,9,0,Yes,Not Returned,,electronics,Cash on Delivery,267.9,0,0.0,0.0,2022-03-04
+Mario Ramirez,Male,27,Australia,Facebook,3,1,Yes,Not Returned,,electronics,Cash on Delivery,386.62,3,1159.86,257.84,2022-10-05
+Melanie Hudson,Female,48,UK,Email,5,3,Yes,Not Returned,,home,PayPal,495.84,1,495.84,127.92,2023-04-14
+David Wheeler,Male,47,UK,Twitter,1,1,No,Not Returned,,electronics,Credit Card,350.43,1,350.43,38.41,2022-04-19
+Melanie Hudson,Male,19,Australia,Facebook,9,5,No,Returned,Wrong Size,home,PayPal,168.7,2,337.4,59.36,2023-05-08
+Jason Flowers,Male,61,Australia,Google,7,3,No,Returned,Wrong Size,electronics,Cash on Delivery,25.52,1,25.52,7.62,2023-03-04
+Mikayla Gonzalez,Male,27,India,Instagram,2,0,No,Returned,Changed Mind,toys,Credit Card,470.96,0,0.0,0.0,2023-12-18
+David Wheeler,Female,40,USA,Google,7,6,No,Returned,Item Not As Described,toys,PayPal,401.1,1,401.1,67.43,2023-10-10
+David Wheeler,Female,46,France,Instagram,6,4,Yes,Returned,Wrong Size,toys,Cash on Delivery,385.56,4,1542.24,187.82,2022-01-01
+Melanie Hudson,Female,26,France,Instagram,6,3,No,Not Returned,,electronics,Cash on Delivery,37.44,3,112.32,32.43,2022-07-21
+Melanie Hudson,Female,53,UK,Twitter,9,3,No,Not Returned,,toys,Credit Card,379.07,2,758.14,85.57,2023-12-09
+Mario Ramirez,Female,18,India,Email,5,5,No,Not Returned,,home,Cash on Delivery,290.62,3,871.86,150.74,2023-08-08
+Mikayla Gonzalez,Male,47,Canada,Billboard,4,1,No,Returned,Changed Mind,beauty,Debit Card,181.68,1,181.68,25.87,2023-06-04
+Mario Ramirez,Female,26,Germany,Facebook,3,2,No,Not Returned,,toys,PayPal,53.83,2,107.66,18.79,2022-03-03
+Melanie Hudson,Female,52,India,Facebook,10,5,No,Not Returned,,electronics,PayPal,430.04,2,860.08,154.96,2023-07-22
+Mikayla Gonzalez,Male,36,Germany,Google,3,2,No,Returned,,fashion,Debit Card,86.5,3,259.5,67.8,2023-05-21
+Melanie Hudson,Male,57,France,Instagram,5,1,Yes,Returned,,fashion,Credit Card,314.37,5,1571.85,351.96,2023-09-21
+Jason Flowers,Male,21,Australia,Twitter,3,1,No,Returned,Arrived Damaged,books,PayPal,49.77,2,99.54,15.97,2023-10-28
+Mario Ramirez,Male,57,UK,Google,7,6,No,Returned,Item Not As Described,books,Debit Card,128.51,3,385.53,102.65,2023-03-14
+Mikayla Gonzalez,Male,43,UK,Email,9,8,No,Not Returned,,electronics,PayPal,79.12,1,79.12,17.89,2023-07-28
+David Wheeler,Male,50,UK,Instagram,2,0,Yes,Returned,Wrong Size,home,Debit Card,363.52,0,0.0,0.0,2022-02-10
+Jason Flowers,Female,59,UK,Email,7,4,Yes,Returned,Wrong Size,toys,Credit Card,282.22,2,564.44,149.94,2023-08-27
+Mario Ramirez,Female,44,France,Google,2,1,No,Returned,Arrived Damaged,home,Credit Card,327.78,3,983.34,176.11,2023-12-31
+Jason Flowers,Female,64,Canada,Billboard,1,0,No,Not Returned,,toys,Cash on Delivery,260.28,0,0.0,0.0,2023-07-29
+Mikayla Gonzalez,Male,18,USA,Email,3,3,No,Returned,Wrong Size,toys,Credit Card,489.78,5,2448.9,458.2,2022-12-06
+Jason Flowers,Male,45,France,Twitter,6,4,No,Not Returned,,fashion,Credit Card,314.12,1,314.12,52.19,2022-01-31
+David Wheeler,Female,31,Germany,Google,8,1,No,Returned,Changed Mind,toys,Credit Card,432.95,3,1298.85,350.69,2022-05-05
+David Wheeler,Female,59,India,Email,2,2,No,Returned,Wrong Size,electronics,Cash on Delivery,215.14,2,430.28,45.27,2023-09-30
+Melanie Hudson,Male,59,France,Twitter,3,3,Yes,Not Returned,,beauty,Credit Card,154.0,5,770.0,122.48,2023-04-06
+Mikayla Gonzalez,Female,41,India,Email,6,6,No,Not Returned,,books,PayPal,326.46,3,979.38,247.76,2022-02-21
+Jason Flowers,Female,25,UK,Billboard,10,3,No,Returned,Wrong Size,home,Credit Card,483.37,1,483.37,49.88,2022-08-05
+David Wheeler,Female,39,Australia,Instagram,10,10,No,Not Returned,,fashion,Cash on Delivery,304.86,1,304.86,91.11,2023-11-18
+Melanie Hudson,Male,19,France,Billboard,2,1,No,Returned,Arrived Damaged,toys,Cash on Delivery,351.16,5,1755.8,219.14,2023-11-01
+Melanie Hudson,Female,63,Australia,Email,4,3,No,Not Returned,,toys,Credit Card,89.15,3,267.45,63.06,2022-12-23
+Mikayla Gonzalez,Female,55,Canada,Email,7,5,No,Returned,Wrong Size,beauty,PayPal,239.1,3,717.3,110.56,2022-02-16
+Melanie Hudson,Female,40,India,Email,10,9,No,Not Returned,,home,Cash on Delivery,215.75,5,1078.75,220.94,2023-02-11
+Jason Flowers,Male,36,France,Google,2,1,No,Not Returned,,electronics,Debit Card,123.37,2,246.74,50.88,2022-09-05
+Mikayla Gonzalez,Female,65,Germany,Facebook,2,2,No,Returned,Changed Mind,electronics,Debit Card,228.22,2,456.44,127.5,2022-07-13
+Melanie Hudson,Male,53,France,Instagram,5,3,No,Returned,Wrong Size,fashion,PayPal,99.95,2,199.9,30.15,2022-04-20
+Mario Ramirez,Male,31,UK,Email,3,1,No,Not Returned,,beauty,PayPal,76.46,4,305.84,30.76,2022-04-11
+Melanie Hudson,Male,57,UK,Email,8,6,No,Returned,Arrived Damaged,books,Credit Card,484.55,3,1453.65,233.52,2022-05-16
+David Wheeler,Male,46,UK,Facebook,1,0,No,Returned,Changed Mind,books,PayPal,331.31,0,0.0,0.0,2023-10-14
+David Wheeler,Male,23,France,Instagram,10,1,No,Returned,Item Not As Described,toys,Cash on Delivery,480.16,4,1920.64,369.02,2022-06-12
+David Wheeler,Female,41,UK,Twitter,9,2,No,Not Returned,,fashion,PayPal,55.36,3,166.08,19.12,2023-03-22
+Jason Flowers,Female,24,Germany,Google,10,6,No,Returned,Changed Mind,beauty,Cash on Delivery,427.3,1,427.3,81.31,2023-11-09
+David Wheeler,Female,52,Germany,Twitter,10,0,No,Returned,Item Not As Described,toys,PayPal,425.46,0,0.0,0.0,2022-10-05
+Melanie Hudson,Male,23,France,Email,3,3,No,Returned,Item Not As Described,home,Credit Card,218.2,5,1091.0,246.92,2023-12-18
+Mario Ramirez,Male,20,Australia,Twitter,7,7,Yes,Returned,Wrong Size,beauty,Cash on Delivery,499.75,2,999.5,244.15,2022-01-03
+Mario Ramirez,Female,59,France,Facebook,10,5,No,Not Returned,,fashion,Cash on Delivery,455.04,5,2275.2,357.17,2022-09-15
+David Wheeler,Female,46,India,Billboard,3,1,Yes,Not Returned,,toys,Cash on Delivery,30.89,3,92.67,19.77,2023-03-21
+Jason Flowers,Male,48,France,Instagram,10,6,No,Not Returned,,home,Credit Card,123.13,2,246.26,34.53,2023-08-15
+Mario Ramirez,Male,25,France,Instagram,5,1,No,Not Returned,,fashion,Debit Card,28.59,1,28.59,6.04,2023-09-09
+Mikayla Gonzalez,Male,35,India,Email,6,0,Yes,Not Returned,,toys,PayPal,214.41,0,0.0,0.0,2023-09-06
+Melanie Hudson,Female,31,Germany,Instagram,5,3,Yes,Not Returned,,electronics,Debit Card,133.38,5,666.9,100.12,2022-06-25
+Melanie Hudson,Male,38,USA,Facebook,5,5,No,Returned,Arrived Damaged,home,Cash on Delivery,396.95,2,793.9,201.55,2022-10-01
+David Wheeler,Female,60,Canada,Facebook,9,2,Yes,Returned,Arrived Damaged,beauty,Debit Card,36.39,4,145.56,42.96,2022-11-16
+David Wheeler,Female,41,Canada,Twitter,10,9,No,Not Returned,,electronics,Debit Card,168.47,1,168.47,29.83,2022-01-07
+Mario Ramirez,Male,18,France,Billboard,8,4,No,Not Returned,,books,Credit Card,22.14,1,22.14,5.8,2022-06-22
+Melanie Hudson,Female,61,France,Billboard,1,0,No,Returned,,beauty,Cash on Delivery,259.86,0,0.0,0.0,2023-08-13
+Mikayla Gonzalez,Male,19,Germany,Twitter,3,2,No,Returned,Arrived Damaged,beauty,Credit Card,310.33,5,1551.65,181.77,2023-05-02
+David Wheeler,Female,25,France,Twitter,8,2,Yes,Returned,Item Not As Described,home,Credit Card,367.02,3,1101.06,253.37,2023-10-31
+Mikayla Gonzalez,Male,43,Australia,Email,5,4,No,Not Returned,,toys,Credit Card,98.06,5,490.3,136.11,2023-10-31
+Melanie Hudson,Male,58,UK,Twitter,7,5,Yes,Not Returned,,electronics,Credit Card,298.13,3,894.39,168.32,2022-03-20
+Jason Flowers,Female,25,India,Email,8,0,Yes,Not Returned,,beauty,Debit Card,326.93,0,0.0,0.0,2023-12-17
+Melanie Hudson,Female,44,Germany,Billboard,2,1,No,Not Returned,,home,PayPal,498.15,1,498.15,64.1,2022-08-04
+David Wheeler,Female,26,Germany,Billboard,9,0,No,Returned,,electronics,Debit Card,494.05,0,0.0,0.0,2022-02-22
+Jason Flowers,Female,53,India,Google,10,5,No,Not Returned,,fashion,PayPal,202.54,3,607.62,82.81,2023-10-31
+David Wheeler,Male,48,USA,Instagram,8,0,No,Returned,Item Not As Described,beauty,Debit Card,235.81,0,0.0,0.0,2023-02-16
+Jason Flowers,Male,36,India,Twitter,7,6,No,Returned,Changed Mind,electronics,PayPal,174.28,2,348.56,59.56,2022-08-11
+Melanie Hudson,Female,55,Canada,Instagram,6,4,No,Returned,Arrived Damaged,electronics,PayPal,429.36,4,1717.44,221.6,2022-09-20
+Mikayla Gonzalez,Female,58,Germany,Facebook,9,5,Yes,Returned,Item Not As Described,beauty,Credit Card,97.88,4,391.52,90.89,2023-09-16
+Melanie Hudson,Female,39,Australia,Email,9,1,Yes,Returned,Changed Mind,books,Cash on Delivery,126.29,2,252.58,68.95,2022-05-14
+Mikayla Gonzalez,Female,35,France,Twitter,10,10,No,Returned,,beauty,PayPal,338.5,2,677.0,115.36,2022-06-22
+Mikayla Gonzalez,Female,43,India,Billboard,5,3,Yes,Returned,Wrong Size,beauty,Debit Card,424.4,2,848.8,204.31,2022-04-07
+David Wheeler,Male,34,Australia,Twitter,5,3,No,Returned,,home,Credit Card,425.25,4,1701.0,198.27,2022-08-06
+David Wheeler,Female,24,Australia,Email,3,0,No,Not Returned,,toys,Cash on Delivery,298.95,0,0.0,0.0,2023-08-09
+Mario Ramirez,Female,23,USA,Billboard,5,5,Yes,Not Returned,,electronics,PayPal,354.84,5,1774.2,185.53,2022-03-28
+Jason Flowers,Male,24,Canada,Billboard,7,2,No,Returned,Wrong Size,home,PayPal,387.48,3,1162.44,211.34,2023-10-03
+Mikayla Gonzalez,Male,28,France,Twitter,4,2,No,Not Returned,,beauty,Cash on Delivery,475.7,4,1902.8,539.05,2023-03-09
+Mikayla Gonzalez,Male,27,Australia,Twitter,8,3,No,Returned,Item Not As Described,toys,Cash on Delivery,315.98,4,1263.92,346.94,2022-06-25
+Mario Ramirez,Female,34,USA,Instagram,5,2,No,Not Returned,,fashion,Credit Card,429.35,3,1288.05,180.51,2023-04-02
+Jason Flowers,Male,40,Germany,Billboard,10,8,No,Not Returned,,books,PayPal,270.29,5,1351.45,267.37,2023-11-05
+Mario Ramirez,Female,55,Canada,Twitter,4,4,No,Returned,Wrong Size,electronics,PayPal,65.86,4,263.44,73.71,2023-10-29
+Mikayla Gonzalez,Male,30,France,Google,4,0,No,Not Returned,,fashion,Cash on Delivery,440.73,0,0.0,0.0,2023-12-17
+David Wheeler,Female,43,USA,Twitter,4,0,No,Not Returned,,beauty,Credit Card,258.16,0,0.0,0.0,2023-01-27
+Jason Flowers,Female,56,India,Google,6,4,No,Not Returned,,toys,PayPal,479.1,4,1916.4,490.73,2022-02-04
+Jason Flowers,Male,35,USA,Google,10,3,No,Returned,,beauty,Cash on Delivery,424.27,5,2121.35,302.82,2023-04-20
+David Wheeler,Female,40,USA,Instagram,8,4,No,Not Returned,,home,Credit Card,101.7,3,305.1,47.8,2023-10-21
+Mikayla Gonzalez,Male,37,France,Instagram,9,1,No,Returned,Wrong Size,fashion,Cash on Delivery,163.76,3,491.28,87.58,2023-02-24
+Jason Flowers,Female,64,UK,Facebook,8,7,No,Returned,Arrived Damaged,fashion,Credit Card,412.98,5,2064.9,506.04,2023-06-18
+David Wheeler,Female,25,France,Facebook,8,1,No,Not Returned,,home,Debit Card,375.53,3,1126.59,152.87,2023-01-17
+Jason Flowers,Female,30,USA,Facebook,10,9,Yes,Not Returned,,electronics,Debit Card,222.74,1,222.74,42.83,2022-12-12
+Jason Flowers,Female,19,France,Billboard,1,1,Yes,Not Returned,,fashion,Debit Card,201.94,4,807.76,206.88,2022-12-23
+Melanie Hudson,Male,56,India,Instagram,2,1,No,Returned,Wrong Size,home,Debit Card,78.06,1,78.06,14.82,2022-03-18
+David Wheeler,Male,38,France,Twitter,5,0,Yes,Not Returned,,beauty,Credit Card,407.57,0,0.0,0.0,2022-04-17
+Jason Flowers,Male,25,France,Twitter,4,1,No,Not Returned,,electronics,Debit Card,110.34,4,441.36,77.71,2022-02-09
+David Wheeler,Female,19,India,Facebook,1,1,Yes,Returned,Wrong Size,electronics,Cash on Delivery,277.91,3,833.73,250.11,2022-05-17
+Mikayla Gonzalez,Male,35,UK,Instagram,8,7,No,Returned,Item Not As Described,books,Credit Card,335.43,3,1006.29,216.9,2023-05-12
+Jason Flowers,Male,22,France,Twitter,5,5,No,Returned,Wrong Size,fashion,Cash on Delivery,90.37,5,451.85,121.06,2022-05-21
+Jason Flowers,Male,43,Australia,Facebook,10,6,No,Returned,Arrived Damaged,electronics,Debit Card,246.57,1,246.57,54.83,2023-07-15
+Melanie Hudson,Male,49,France,Google,10,8,No,Returned,Item Not As Described,toys,PayPal,111.81,4,447.24,62.84,2023-04-02
+Mario Ramirez,Female,65,Canada,Google,10,5,Yes,Not Returned,,beauty,Credit Card,91.12,2,182.24,50.01,2022-08-25
+David Wheeler,Male,44,Germany,Email,3,2,No,Not Returned,,home,Debit Card,287.73,1,287.73,44.46,2023-07-28
+Mikayla Gonzalez,Male,22,USA,Billboard,5,1,Yes,Not Returned,,books,Cash on Delivery,174.64,4,698.56,97.11,2023-08-06
+Melanie Hudson,Male,52,USA,Twitter,6,0,No,Not Returned,,fashion,PayPal,216.75,0,0.0,0.0,2023-05-03
+Jason Flowers,Female,25,Germany,Facebook,2,0,No,Returned,Arrived Damaged,toys,PayPal,361.21,0,0.0,0.0,2022-08-03
+Jason Flowers,Female,58,Germany,Billboard,9,2,No,Not Returned,,toys,Debit Card,442.97,2,885.94,148.68,2023-09-17
+Mario Ramirez,Female,23,Canada,Google,2,1,No,Not Returned,,fashion,Cash on Delivery,163.57,2,327.14,50.67,2023-11-14
+Melanie Hudson,Male,33,UK,Email,10,2,No,Returned,,beauty,Debit Card,184.53,2,369.06,84.56,2022-02-21
+Mikayla Gonzalez,Male,45,India,Billboard,7,4,No,Returned,Changed Mind,toys,Cash on Delivery,330.0,3,990.0,213.03,2023-04-23
+Melanie Hudson,Female,47,Germany,Instagram,9,0,No,Not Returned,,toys,Cash on Delivery,64.89,0,0.0,0.0,2022-03-16
+Jason Flowers,Female,65,France,Email,4,0,No,Returned,Changed Mind,home,Credit Card,78.9,0,0.0,0.0,2023-04-12
+Mario Ramirez,Female,47,France,Twitter,6,5,No,Returned,,books,PayPal,220.36,4,881.44,153.93,2023-05-02
+Mikayla Gonzalez,Female,47,UK,Facebook,1,0,No,Not Returned,,fashion,Credit Card,432.28,0,0.0,0.0,2023-10-08
+Jason Flowers,Female,49,Australia,Billboard,3,2,Yes,Returned,Arrived Damaged,books,Credit Card,358.01,3,1074.03,317.47,2022-05-24
+Mikayla Gonzalez,Male,59,UK,Instagram,1,0,No,Not Returned,,fashion,PayPal,178.64,0,0.0,0.0,2023-05-06
+Mikayla Gonzalez,Male,33,Germany,Twitter,10,1,No,Returned,Arrived Damaged,books,PayPal,67.7,2,135.4,26.83,2023-01-25
+Mikayla Gonzalez,Female,22,Germany,Twitter,3,3,Yes,Not Returned,,books,PayPal,440.05,1,440.05,75.58,2023-01-23
+Jason Flowers,Male,60,India,Instagram,6,5,No,Returned,Arrived Damaged,electronics,Credit Card,406.93,2,813.86,235.28,2022-12-25
+Mario Ramirez,Male,56,Australia,Instagram,4,2,No,Returned,,electronics,Credit Card,46.83,1,46.83,9.39,2023-10-24
+Mikayla Gonzalez,Female,35,France,Google,9,6,No,Not Returned,,toys,Credit Card,32.92,2,65.84,12.31,2023-08-12
+Melanie Hudson,Female,59,Canada,Email,7,4,Yes,Returned,Changed Mind,electronics,Debit Card,152.83,5,764.15,192.58,2023-02-06
+Jason Flowers,Female,48,USA,Email,1,1,No,Returned,Item Not As Described,fashion,PayPal,422.24,5,2111.2,436.12,2022-10-14
+Mikayla Gonzalez,Male,50,USA,Email,2,1,Yes,Returned,Arrived Damaged,toys,Credit Card,328.44,1,328.44,42.88,2023-10-27
+Melanie Hudson,Female,49,Canada,Twitter,1,1,Yes,Not Returned,,books,Debit Card,70.6,3,211.8,26.3,2023-07-01
+Jason Flowers,Female,55,Australia,Billboard,6,5,No,Not Returned,,books,PayPal,226.26,5,1131.3,273.33,2023-01-25
+Melanie Hudson,Female,20,India,Google,4,0,No,Not Returned,,books,PayPal,77.0,0,0.0,0.0,2022-10-22
+Mikayla Gonzalez,Male,57,France,Instagram,5,5,No,Not Returned,,books,PayPal,452.65,1,452.65,52.04,2022-08-06
+Mario Ramirez,Female,54,France,Billboard,9,3,Yes,Not Returned,,home,Debit Card,322.45,1,322.45,34.9,2022-01-15
+Melanie Hudson,Male,19,Australia,Billboard,8,2,No,Returned,Arrived Damaged,fashion,PayPal,467.42,3,1402.26,184.01,2022-05-25
+Melanie Hudson,Female,41,UK,Instagram,2,1,No,Returned,,toys,Debit Card,246.59,1,246.59,51.3,2023-12-14
+David Wheeler,Male,44,India,Instagram,7,7,No,Returned,Arrived Damaged,electronics,Cash on Delivery,119.28,1,119.28,15.42,2022-09-11
+Mikayla Gonzalez,Female,42,USA,Twitter,10,2,No,Returned,,books,Credit Card,91.51,1,91.51,13.73,2023-05-25
+David Wheeler,Female,44,Australia,Facebook,9,6,No,Not Returned,,toys,Cash on Delivery,224.19,5,1120.95,278.09,2023-05-31
+Mario Ramirez,Female,61,Germany,Facebook,3,2,No,Not Returned,,books,Cash on Delivery,34.42,5,172.1,26.95,2023-04-26
+David Wheeler,Male,18,USA,Email,7,7,No,Not Returned,,home,Credit Card,155.32,2,310.64,62.04,2022-12-19
+Jason Flowers,Male,30,Canada,Instagram,6,3,No,Not Returned,,beauty,Credit Card,247.6,5,1238.0,318.71,2023-09-20
+Jason Flowers,Female,61,Canada,Email,4,3,No,Not Returned,,fashion,PayPal,370.68,5,1853.4,512.49,2023-01-05
+Mario Ramirez,Female,34,India,Google,4,2,Yes,Returned,,beauty,PayPal,377.03,5,1885.15,298.06,2023-11-20
+Melanie Hudson,Male,55,Canada,Email,1,0,No,Returned,Item Not As Described,electronics,Cash on Delivery,142.14,0,0.0,0.0,2023-11-24
+Jason Flowers,Female,21,Canada,Facebook,9,7,No,Returned,Wrong Size,beauty,PayPal,178.29,5,891.45,218.2,2022-11-11
+David Wheeler,Male,18,Canada,Instagram,4,2,No,Not Returned,,toys,Credit Card,312.36,1,312.36,73.37,2023-03-25
+Jason Flowers,Male,18,France,Instagram,2,0,No,Not Returned,,home,Debit Card,163.12,0,0.0,0.0,2023-08-07
+Mikayla Gonzalez,Female,40,Germany,Email,4,3,No,Not Returned,,toys,PayPal,381.96,2,763.92,145.39,2023-08-16
+David Wheeler,Male,37,Canada,Instagram,3,1,No,Not Returned,,beauty,Credit Card,435.9,5,2179.5,626.26,2023-05-03
+Mikayla Gonzalez,Male,42,Canada,Instagram,7,1,No,Returned,Wrong Size,fashion,Cash on Delivery,356.63,1,356.63,44.38,2022-08-24
+Jason Flowers,Female,42,USA,Instagram,3,1,Yes,Returned,Arrived Damaged,beauty,Credit Card,224.77,4,899.08,127.8,2022-03-07
+Mikayla Gonzalez,Male,24,France,Instagram,2,1,No,Returned,Item Not As Described,fashion,Credit Card,313.82,2,627.64,98.87,2022-03-22
+Mikayla Gonzalez,Female,44,India,Facebook,10,9,No,Not Returned,,fashion,Cash on Delivery,285.28,4,1141.12,195.32,2022-03-08
+Mikayla Gonzalez,Male,38,Canada,Twitter,10,10,No,Returned,Changed Mind,electronics,Debit Card,175.93,1,175.93,21.25,2023-08-25
+David Wheeler,Male,51,USA,Google,10,8,No,Not Returned,,home,Debit Card,261.65,5,1308.25,192.76,2022-04-03
+Jason Flowers,Female,62,Germany,Twitter,5,1,No,Returned,Wrong Size,beauty,Debit Card,233.18,4,932.72,147.37,2023-02-27
+Jason Flowers,Female,60,Germany,Instagram,10,7,No,Not Returned,,home,PayPal,207.47,1,207.47,27.29,2022-02-03
+Mario Ramirez,Male,35,France,Email,9,4,No,Not Returned,,fashion,Credit Card,301.43,1,301.43,73.64,2023-06-26
+Jason Flowers,Male,54,Australia,Facebook,4,0,No,Not Returned,,books,Cash on Delivery,425.57,0,0.0,0.0,2022-05-12
+Melanie Hudson,Male,32,UK,Google,10,6,No,Returned,Changed Mind,fashion,Cash on Delivery,319.85,1,319.85,67.9,2023-01-06
+Melanie Hudson,Female,60,USA,Billboard,10,5,Yes,Returned,Arrived Damaged,fashion,Cash on Delivery,174.94,3,524.82,117.86,2022-04-03
+Mario Ramirez,Female,18,Canada,Instagram,9,3,No,Returned,Arrived Damaged,fashion,Debit Card,71.95,3,215.85,34.89,2023-09-18
+Jason Flowers,Female,64,Germany,Google,9,6,No,Not Returned,,books,PayPal,354.41,5,1772.05,422.05,2023-12-23
+Melanie Hudson,Male,54,Australia,Google,8,1,No,Not Returned,,books,Cash on Delivery,80.95,5,404.75,48.69,2022-12-18
+David Wheeler,Male,28,India,Google,5,2,No,Returned,,toys,PayPal,289.41,5,1447.05,415.2,2023-01-03
+David Wheeler,Male,58,France,Twitter,5,5,No,Not Returned,,toys,Credit Card,70.93,2,141.86,17.16,2022-10-14
+Jason Flowers,Female,52,Australia,Instagram,10,10,No,Returned,Wrong Size,home,Debit Card,262.94,5,1314.7,326.27,2023-12-04
+Jason Flowers,Male,28,UK,Email,4,0,No,Not Returned,,electronics,Cash on Delivery,374.85,0,0.0,0.0,2023-01-30
+Mikayla Gonzalez,Female,53,USA,Email,9,5,No,Returned,,fashion,Debit Card,322.22,3,966.66,241.51,2023-10-01
+Jason Flowers,Female,25,Germany,Twitter,6,3,No,Not Returned,,electronics,Credit Card,71.77,3,215.31,41.5,2022-11-18
+Mario Ramirez,Male,37,UK,Twitter,3,0,No,Not Returned,,books,Cash on Delivery,171.87,0,0.0,0.0,2022-07-03
+David Wheeler,Female,45,France,Google,4,1,Yes,Not Returned,,electronics,PayPal,497.56,3,1492.68,284.96,2023-11-28
+Mikayla Gonzalez,Male,61,Canada,Twitter,5,5,No,Returned,,toys,PayPal,399.24,5,1996.2,402.11,2022-03-29
+Mario Ramirez,Male,30,Germany,Twitter,3,1,No,Returned,Wrong Size,electronics,Debit Card,109.39,5,546.95,91.43,2022-06-25
+Mikayla Gonzalez,Female,37,USA,Email,4,1,No,Returned,Wrong Size,fashion,PayPal,470.21,2,940.42,115.61,2023-01-03
+Mikayla Gonzalez,Female,31,Australia,Facebook,6,3,No,Returned,Wrong Size,books,Credit Card,272.36,2,544.72,85.42,2022-09-01
+Mario Ramirez,Male,38,Germany,Billboard,9,2,No,Not Returned,,books,Debit Card,434.29,2,868.58,211.74,2023-08-20
+Mario Ramirez,Male,38,USA,Twitter,2,1,Yes,Not Returned,,home,PayPal,65.4,2,130.8,33.67,2023-07-01
+David Wheeler,Male,56,Australia,Instagram,3,3,No,Returned,Item Not As Described,books,Cash on Delivery,86.65,3,259.95,63.63,2022-08-22
+Mikayla Gonzalez,Female,30,UK,Instagram,7,1,No,Not Returned,,toys,Debit Card,59.48,5,297.4,76.59,2023-12-20
+Mikayla Gonzalez,Female,42,India,Google,7,5,Yes,Not Returned,,beauty,Cash on Delivery,111.78,2,223.56,54.91,2023-12-21

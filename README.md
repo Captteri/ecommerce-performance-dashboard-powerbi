@@ -13,14 +13,6 @@ This project presents a multi-page Power BI dashboard built to analyze key perfo
 - Excel (for dataset generation)
 - Canva (optional – for custom UI elements)
 
-## 📷 Screenshots
-| Executive Summary | Returns Analysis |
-|------------------|------------------|
-| ![overview](overview.png") | ![returns](returns.png) |
-
-| Campaigns | Orders |
-|----------|--------|
-| ![campaigns](campaigns.png) | ![orders](orders.png) |
 
 ## 📁 Dataset
 The sample dataset was artificially generated to mimic real-world e-commerce behavior across categories, customers, and campaigns.
